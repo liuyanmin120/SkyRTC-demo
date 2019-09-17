@@ -1,0 +1,1493 @@
+“peerconnection_client.exe”(Win32): 已加载“F:\webrtc\webrtc-src\src\out\winh264\peerconnection_client.exe”。已加载符号。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptbase.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\user32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\lpk.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\usp10.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleaut32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\ole32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\shell32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\shlwapi.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmm.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\ws2_32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\nsi.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\msdmo.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\IPHLPAPI.DLL”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\winnsi.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\secur32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\imm32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\msctf.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\version.dll”
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\uxtheme.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\dwmapi.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\ole32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ole32.dll”
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\nlaapi.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\NapiNSP.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\pnrpnsp.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\mswsock.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\dnsapi.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\winrnr.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\version.dll”
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\WSHTCPIP.DLL”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\wship6.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\rasadhlp.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\FWPUCLNT.DLL”。无法查找或打开 PDB 文件。
+线程 0x3840 已退出，返回值为 0 (0x0)。
+(win32socketserver.cc:599): WSAAsync:connect (1 ms)
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:212): OnPeerConnected
+(conductor.cc:198): OnSignedIn
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(win32socketserver.cc:599): WSAAsync:connect (1 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "sdp" : "v=0\r\no=- 2095250946306900480 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1\r\na=msid-semantic: WMS stream_id\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 102 0 8 106 105 13 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:4Q5B\r\na=ice-pwd:eVDT9O7FLWJx21H7HrMpldq/\r\na=ice-options:trickle\r\na=fingerprint:sha-256 7B:76:46:F6:A8:D2:B1:C6:75:AE:03:A0:5A:CC:4F:DE:13:8B:7E:F9:C2:39:53:FA:06:F0:01:6B:0B:15:A2:C9\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:stream_id audio_label\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:102 ILBC/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:106 CN/32000\r\na=rtpmap:105 CN/16000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:1313300658 cname:z/aYDZ3ccVKzFa60\r\na=ssrc:1313300658 msid:stream_id audio_label\r\na=ssrc:1313300658 mslabel:stream_id\r\na=ssrc:1313300658 label:audio_label\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 127 121 125 120 124 107 108 109 123 119 122\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:4Q5B\r\na=ice-pwd:eVDT9O7FLWJx21H7HrMpldq/\r\na=ice-options:trickle\r\na=fingerprint:sha-256 7B:76:46:F6:A8:D2:B1:C6:75:AE:03:A0:5A:CC:4F:DE:13:8B:7E:F9:C2:39:53:FA:06:F0:01:6B:0B:15:A2:C9\r\na=setup:actpass\r\na=mid:1\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 urn:3gpp:video-orientation\r\na=extmap:5 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:10 http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:stream_id video_label\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=125\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=124\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:123 red/90000\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:122 ulpfec/90000\r\na=ssrc-group:FID 203134688 556266706\r\na=ssrc:203134688 cname:z/aYDZ3ccVKzFa60\r\na=ssrc:203134688 msid:stream_id video_label\r\na=ssrc:203134688 mslabel:stream_id\r\na=ssrc:203134688 label:video_label\r\na=ssrc:556266706 cname:z/aYDZ3ccVKzFa60\r\na=ssrc:556266706 msid:stream_id video_label\r\na=ssrc:556266706 mslabel:stream_id\r\na=ssrc:556266706 label:video_label\r\n",
+   "type" : "offer"
+}
+
+(audio_processing_impl.cc:394): Capture analyzer activated: 0
+Capture post processor activated: 0
+Render pre processor activated: 0
+(webrtcvideoengine.cc:460): WebRtcVideoEngine::WebRtcVideoEngine()
+(webrtcvoiceengine.cc:199): WebRtcVoiceEngine::WebRtcVoiceEngine
+(webrtcvoiceengine.cc:222): WebRtcVoiceEngine::Init
+(webrtcvoiceengine.cc:229): Supported send codecs in order of preference:
+(webrtcvoiceengine.cc:232): opus/48000/2 { minptime=10 useinbandfec=1 } (111)
+(webrtcvoiceengine.cc:232): ISAC/16000/1 (103)
+(webrtcvoiceengine.cc:232): ISAC/32000/1 (104)
+(webrtcvoiceengine.cc:232): G722/8000/1 (9)
+(webrtcvoiceengine.cc:232): ILBC/8000/1 (102)
+(webrtcvoiceengine.cc:232): PCMU/8000/1 (0)
+(webrtcvoiceengine.cc:232): PCMA/8000/1 (8)
+(webrtcvoiceengine.cc:232): CN/32000/1 (106)
+(webrtcvoiceengine.cc:232): CN/16000/1 (105)
+(webrtcvoiceengine.cc:232): CN/8000/1 (13)
+(webrtcvoiceengine.cc:232): telephone-event/48000/1 (110)
+(webrtcvoiceengine.cc:232): telephone-event/32000/1 (112)
+(webrtcvoiceengine.cc:232): telephone-event/16000/1 (113)
+(webrtcvoiceengine.cc:232): telephone-event/8000/1 (126)
+(webrtcvoiceengine.cc:235): Supported recv codecs in order of preference:
+(webrtcvoiceengine.cc:238): opus/48000/2 { minptime=10 useinbandfec=1 } (111)
+(webrtcvoiceengine.cc:238): ISAC/16000/1 (103)
+(webrtcvoiceengine.cc:238): ISAC/32000/1 (104)
+(webrtcvoiceengine.cc:238): G722/8000/1 (9)
+(webrtcvoiceengine.cc:238): ILBC/8000/1 (102)
+(webrtcvoiceengine.cc:238): PCMU/8000/1 (0)
+(webrtcvoiceengine.cc:238): PCMA/8000/1 (8)
+(webrtcvoiceengine.cc:238): CN/32000/1 (106)
+(webrtcvoiceengine.cc:238): CN/16000/1 (105)
+(webrtcvoiceengine.cc:238): CN/8000/1 (13)
+(webrtcvoiceengine.cc:238): telephone-event/48000/1 (110)
+(webrtcvoiceengine.cc:238): telephone-event/32000/1 (112)
+(webrtcvoiceengine.cc:238): telephone-event/16000/1 (113)
+(webrtcvoiceengine.cc:238): telephone-event/8000/1 (126)
+(audio_device_impl.cc:75): Create
+(audio_device_impl.cc:82): CreateForTest
+(audio_device_buffer.cc:61): AudioDeviceBuffer::ctor
+(audio_device_impl.cc:125): AudioDeviceModuleImpl
+(audio_device_impl.cc:129): CheckPlatform
+(audio_device_impl.cc:134): current platform is Win32
+(audio_device_impl.cc:159): CreatePlatformSpecificObjects
+(audio_device_impl.cc:938): PlatformAudioLayer
+(audio_device_impl.cc:181): Attempting to use the Windows Core Audio APIs...
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\clbcatq.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\MMDevAPI.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\propsys.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\setupapi.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\devobj.dll”。无法查找或打开 PDB 文件。
+(audio_device_core_win.cc:436): AudioDeviceWindowsCore created
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\avrt.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\MFWMAAEC.DLL”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\mfplat.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\AudioSes.dll”。无法查找或打开 PDB 文件。
+(audio_device_core_win.cc:2239): nChannels=2, nSamplesPerSec=48000 is not supported. Closest match: nChannels=2, nSamplesPerSec=44100
+(audio_device_core_win.cc:2239): nChannels=1, nSamplesPerSec=48000 is not supported. Closest match: nChannels=2, nSamplesPerSec=44100
+(audio_device_core_win.cc:2239): nChannels=4, nSamplesPerSec=48000 is not supported. Closest match: nChannels=2, nSamplesPerSec=44100
+(audio_device_core_win.cc:2239): nChannels=2, nSamplesPerSec=48000 is not supported. Closest match: nChannels=1, nSamplesPerSec=48000
+(audio_device_core_win.cc:533): ~AudioDeviceWindowsCore destroyed
+(audio_device_core_win.cc:580): AudioDeviceWindowsCore::~AudioDeviceWindowsCore() the Avrt DLL module is now unloaded
+(audio_device_core_win.cc:436): AudioDeviceWindowsCore created
+(audio_device_impl.cc:184): Windows Core Audio APIs will be utilized
+(audio_device_impl.cc:314): AttachAudioBuffer
+(audio_device_buffer.cc:178): SetRecordingSampleRate(0)
+(audio_device_buffer.cc:184): SetPlayoutSampleRate(0)
+(audio_device_buffer.cc:198): SetRecordingChannels(0)
+(audio_device_buffer.cc:204): SetPlayoutChannels(0)
+(audio_device_impl.cc:334): Init
+(audio_device_impl.cc:681): SetPlayoutDevice
+(audio_device_impl.cc:367): InitSpeaker
+(audio_device_impl.cc:579): StereoPlayoutIsAvailable
+(audio_device_impl.cc:586): output: 1
+(audio_device_impl.cc:591): SetStereoPlayout(1)
+(audio_device_buffer.cc:204): SetPlayoutChannels(2)
+(audio_device_impl.cc:743): SetRecordingDevice
+(audio_device_impl.cc:373): InitMicrophone
+(audio_device_impl.cc:536): StereoRecordingIsAvailable
+(audio_device_impl.cc:543): output: 1
+(audio_device_impl.cc:548): SetStereoRecording(1)
+(audio_device_buffer.cc:198): SetRecordingChannels(2)
+(audio_device_impl.cc:850): RegisterAudioCallback
+(audio_device_buffer.cc:79): RegisterAudioCallback
+(webrtcvoiceengine.cc:313): WebRtcVoiceEngine::ApplyOptions: AudioOptions {aec: 1, agc: 1, ns: 1, hf: 1, swap: 0, audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, typing: 1, experimental_agc: 0, extended_filter_aec: 0, delay_agnostic_aec: 0, experimental_ns: 0, residual_echo_detector: 1, }
+(audio_device_impl.cc:866): BuiltInAECIsAvailable
+(audio_device_impl.cc:869): output: 1
+(audio_device_impl.cc:874): EnableBuiltInAEC(1)
+(audio_device_impl.cc:877): output: 0
+(webrtcvoiceengine.cc:414): Disabling EC since built-in EC will be used instead
+(audio_processing_impl.cc:658): Highpass filter activated: 0
+(audio_processing_impl.cc:672): Gain Controller 2 activated: 0
+(audio_processing_impl.cc:674): Pre-amplifier activated: 0
+(apm_helpers.cc:89): Echo control set to 0 with mode 0
+(audio_device_impl.cc:882): BuiltInAGCIsAvailable
+(audio_device_generic.cc:27): BuiltInAGCIsAvailable: Not supported on this platform
+(audio_device_impl.cc:885): output: 0
+(apm_helpers.cc:78): AGC set to 1 with mode 0
+(audio_device_impl.cc:898): BuiltInNSIsAvailable
+(audio_device_generic.cc:37): BuiltInNSIsAvailable: Not supported on this platform
+(audio_device_impl.cc:901): output: 0
+(apm_helpers.cc:103): NS set to 1
+(webrtcvoiceengine.cc:469): Stereo swapping enabled? 0
+(webrtcvoiceengine.cc:474): NetEq capacity is 50
+(webrtcvoiceengine.cc:480): NetEq fast mode? 0
+(webrtcvoiceengine.cc:487): Typing detection is enabled? 1
+(apm_helpers.cc:117): VAD set to 1 for typing detection.
+(webrtcvoiceengine.cc:498): Delay agnostic aec is enabled? 0
+(webrtcvoiceengine.cc:508): Extended filter aec is enabled? 0
+(webrtcvoiceengine.cc:518): Experimental ns is enabled? 0
+(audio_processing_impl.cc:658): Highpass filter activated: 1
+(audio_processing_impl.cc:672): Gain Controller 2 activated: 0
+(audio_processing_impl.cc:674): Pre-amplifier activated: 0
+(messagequeue.cc:518): Message took 173ms to dispatch. Posted from: Init@../../pc/channelmanager.cc:133
+(rtc_event_log_impl.cc:68): Creating legacy encoder for RTC event log.
+(peerconnectionfactory.cc:490): Using default network controller factory
+(alr_experiment.cc:66): Using ALR experiment settings: pacing factor: 1, max pacer queue length: 2875, ALR start bandwidth usage percent: 80, ALR end budget level percent: 40, ALR end budget level percent: -60, ALR experiment group ID: 3
+(bitrate_prober.cc:64): Bandwidth probing enabled, set to inactive
+(rtp_transport_controller_send.cc:38): Using TaskQueue based SSCC
+(paced_sender.cc:385): ProcessThreadAttached 0x2344e8
+(cpu_info.cc:46): Available number of cores: 4
+(aimd_rate_control.cc:103): Using aimd rate control with back off factor 0.85
+(remote_bitrate_estimator_single_stream.cc:71): RemoteBitrateEstimatorSingleStream: Instantiating.
+(opensslidentity.cc:44): Making key pair
+(peerconnection.cc:1301): Adding audio transceiver in response to a call to AddTrack.
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\devenum.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntmarta.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\Wldap32.dll”。无法查找或打开 PDB 文件。
+(opensslidentity.cc:92): Returning key pair
+(opensslcertificate.cc:58): Making certificate for WebRTC
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\wintrust.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\crypt32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\msasn1.dll”。无法查找或打开 PDB 文件。
+(opensslcertificate.cc:108): Returning certificate
+(device_info_ds.cc:204): GetDeviceInfo ManyCam Virtual Webcam
+(device_info_ds.cc:204): GetDeviceInfo Logitech HD Webcam C270
+(device_info_ds.cc:204): GetDeviceInfo ManyCam Virtual Webcam
+(device_info_ds.cc:310): CreateCapabilityMap called for device \\?\root#image#0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\ksproxy.ax”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\ksuser.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\d3d9.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\d3d8thk.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\Kswdmcap.ax”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\mfc42.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\odbc32.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\odbcint.dll”。模块已生成，不包含符号。
+(device_info_ds.cc:562): Failed to get the product Id
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:461): GetMaxAvailableFrameRate NOT SUPPORTED
+(device_info_ds.cc:517): Camera capability, width:1920 height:1440 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1920 height:1080 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1600 height:1200 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1280 height:960 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1280 height:720 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1024 height:768 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:800 height:600 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:640 height:480 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:640 height:360 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:512 height:384 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:352 height:288 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:320 height:240 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:320 height:180 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:176 height:144 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:160 height:120 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:320 height:240 type:3 fps:30
+(device_info_ds.cc:536): CreateCapabilityMap 16
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\quartz.dll”。无法查找或打开 PDB 文件。
+线程 0xcdc 已退出，返回值为 0 (0x0)。
+(device_info_ds.cc:310): CreateCapabilityMap called for device \\?\root#image#0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+(device_info_ds.cc:562): Failed to get the product Id
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:461): GetMaxAvailableFrameRate NOT SUPPORTED
+(device_info_ds.cc:517): Camera capability, width:1920 height:1440 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1920 height:1080 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1600 height:1200 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1280 height:960 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1280 height:720 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1024 height:768 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:800 height:600 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:640 height:480 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:640 height:360 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:512 height:384 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:352 height:288 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:320 height:240 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:320 height:180 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:176 height:144 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:160 height:120 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:320 height:240 type:3 fps:30
+(device_info_ds.cc:536): CreateCapabilityMap 16
+(sink_filter_ds.cc:147): GetMediaType position 0, width 640, height 480, biCompression 0x32595559
+(sink_filter_ds.cc:147): GetMediaType position 1, width 640, height 480, biCompression 0x0
+(sink_filter_ds.cc:188): CheckMediaType width:640 height:480 Compression:0x0
+(video_capture_ds.cc:134): Capture device '\\?\root#image#0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global' initialized.
+线程 0x1be4 已退出，返回值为 0 (0x0)。
+线程 0x3a08 已退出，返回值为 0 (0x0)。
+(sink_filter_ds.cc:147): GetMediaType position 0, width 640, height 480, biCompression 0x32595559
+(sink_filter_ds.cc:147): GetMediaType position 1, width 640, height 480, biCompression 0x0
+(sink_filter_ds.cc:188): CheckMediaType width:640 height:480 Compression:0x0
+(webrtcvideocapturer.cc:280): Camera '0' started with format 24BG 640x480x30, elapsed time 50 ms
+(messagequeue.cc:518): Message took 50ms to dispatch. Posted from: Initialize@../../pc/videocapturertracksource.cc:357
+(peerconnection.cc:1301): Adding video transceiver in response to a call to AddTrack.
+(conductor.cc:295):  Received session description :{
+   "sdp" : "v=0\r\no=- 2095250946306900480 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1\r\na=msid-semantic: WMS stream_id\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 102 0 8 106 105 13 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:4Q5B\r\na=ice-pwd:eVDT9O7FLWJx21H7HrMpldq/\r\na=ice-options:trickle\r\na=fingerprint:sha-256 7B:76:46:F6:A8:D2:B1:C6:75:AE:03:A0:5A:CC:4F:DE:13:8B:7E:F9:C2:39:53:FA:06:F0:01:6B:0B:15:A2:C9\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:stream_id audio_label\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:102 ILBC/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:106 CN/32000\r\na=rtpmap:105 CN/16000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:1313300658 cname:z/aYDZ3ccVKzFa60\r\na=ssrc:1313300658 msid:stream_id audio_label\r\na=ssrc:1313300658 mslabel:stream_id\r\na=ssrc:1313300658 label:audio_label\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 127 121 125 120 124 107 108 109 123 119 122\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:4Q5B\r\na=ice-pwd:eVDT9O7FLWJx21H7HrMpldq/\r\na=ice-options:trickle\r\na=fingerprint:sha-256 7B:76:46:F6:A8:D2:B1:C6:75:AE:03:A0:5A:CC:4F:DE:13:8B:7E:F9:C2:39:53:FA:06:F0:01:6B:0B:15:A2:C9\r\na=setup:actpass\r\na=mid:1\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 urn:3gpp:video-orientation\r\na=extmap:5 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:10 http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:stream_id video_label\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=125\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=124\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:123 red/90000\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:122 ulpfec/90000\r\na=ssrc-group:FID 203134688 556266706\r\na=ssrc:203134688 cname:z/aYDZ3ccVKzFa60\r\na=ssrc:203134688 msid:stream_id video_label\r\na=ssrc:203134688 mslabel:stream_id\r\na=ssrc:203134688 label:video_label\r\na=ssrc:556266706 cname:z/aYDZ3ccVKzFa60\r\na=ssrc:556266706 msid:stream_id video_label\r\na=ssrc:556266706 mslabel:stream_id\r\na=ssrc:556266706 label:video_label\r\n",
+   "type" : "offer"
+}
+
+(p2ptransportchannel.cc:494): Set backup connection ping interval to 25000 milliseconds.
+(p2ptransportchannel.cc:503): Set ICE receiving timeout to 2500 milliseconds
+(p2ptransportchannel.cc:510): Set ping most likely connection to 0
+(p2ptransportchannel.cc:517): Set stable_writable_connection_ping_interval to 2500
+(p2ptransportchannel.cc:530): Set presume writable when fully relayed to 0
+(p2ptransportchannel.cc:539): Set regather_on_failed_networks_interval to 300000
+(p2ptransportchannel.cc:558): Set receiving_switching_delay to 1000
+(dtlssrtptransport.cc:60): Setting RTCP Transport on 0 transport 0
+(dtlssrtptransport.cc:65): Setting RTP Transport on 0 transport 59875e8
+(p2ptransportchannel.cc:494): Set backup connection ping interval to 25000 milliseconds.
+(p2ptransportchannel.cc:503): Set ICE receiving timeout to 2500 milliseconds
+(p2ptransportchannel.cc:510): Set ping most likely connection to 0
+(p2ptransportchannel.cc:517): Set stable_writable_connection_ping_interval to 2500
+(p2ptransportchannel.cc:530): Set presume writable when fully relayed to 0
+(p2ptransportchannel.cc:539): Set regather_on_failed_networks_interval to 300000
+(p2ptransportchannel.cc:558): Set receiving_switching_delay to 1000
+(dtlssrtptransport.cc:60): Setting RTCP Transport on 1 transport 0
+(dtlssrtptransport.cc:65): Setting RTP Transport on 1 transport 5989008
+(p2ptransportchannel.cc:442): Received remote ICE parameters: ufrag=4Q5B, renomination disabled
+(p2ptransportchannel.cc:442): Received remote ICE parameters: ufrag=4Q5B, renomination disabled
+(webrtcvoiceengine.cc:1501): Setting voice channel options: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(webrtcvoiceengine.cc:313): WebRtcVoiceEngine::ApplyOptions: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(webrtcvoiceengine.cc:474): NetEq capacity is 50
+(webrtcvoiceengine.cc:480): NetEq fast mode? 0
+(webrtcvoiceengine.cc:498): Delay agnostic aec is enabled? 0
+(webrtcvoiceengine.cc:508): Extended filter aec is enabled? 0
+(webrtcvoiceengine.cc:518): Experimental ns is enabled? 0
+(audio_processing_impl.cc:658): Highpass filter activated: 1
+(audio_processing_impl.cc:672): Gain Controller 2 activated: 0
+(audio_processing_impl.cc:674): Pre-amplifier activated: 0
+(webrtcvoiceengine.cc:1519): Set voice channel options. Current options: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(channel.cc:115): Created channel for 0
+(channel.cc:183): BaseChannel::Init_w, media_transport=0
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(webrtcvideoengine.cc:472): CreateMediaChannel. Options: VideoOptions {}
+(channel.cc:115): Created channel for 1
+(channel.cc:183): BaseChannel::Init_w, media_transport=0
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(peerconnection.cc:3701): Session: 3022010276447495059 Old state: kStable New state: kHaveRemoteOffer
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(channel.cc:868): Setting remote voice description
+(webrtcvoiceengine.cc:1292): WebRtcVoiceMediaChannel::SetSendParameters: {codecs: [AudioCodec[111:opus:48000:0:2], AudioCodec[103:ISAC:16000:0:1], AudioCodec[104:ISAC:32000:0:1], AudioCodec[9:G722:8000:0:1], AudioCodec[102:ILBC:8000:0:1], AudioCodec[0:PCMU:8000:0:1], AudioCodec[8:PCMA:8000:0:1], AudioCodec[106:CN:32000:0:1], AudioCodec[105:CN:16000:0:1], AudioCodec[13:CN:8000:0:1], AudioCodec[110:telephone-event:48000:0:1], AudioCodec[112:telephone-event:32000:0:1], AudioCodec[113:telephone-event:16000:0:1], AudioCodec[126:telephone-event:8000:0:1]], extensions: [{uri: urn:ietf:params:rtp-hdrext:ssrc-audio-level, id: 1}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}], extmap-allow-mixed: false, max_bandwidth_bps: -1, mid: 0, options: AudioOptions {}}
+(webrtcvoiceengine.cc:1718): Recreate all the receive streams because the send codec has changed.
+(webrtcvoiceengine.cc:2140): WebRtcVoiceMediaChannel::SetMaxSendBitrate.
+(webrtcvoiceengine.cc:1501): Setting voice channel options: AudioOptions {}
+(webrtcvoiceengine.cc:313): WebRtcVoiceEngine::ApplyOptions: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(webrtcvoiceengine.cc:474): NetEq capacity is 50
+(webrtcvoiceengine.cc:480): NetEq fast mode? 0
+(webrtcvoiceengine.cc:498): Delay agnostic aec is enabled? 0
+(webrtcvoiceengine.cc:508): Extended filter aec is enabled? 0
+(webrtcvoiceengine.cc:518): Experimental ns is enabled? 0
+(audio_processing_impl.cc:658): Highpass filter activated: 1
+(audio_processing_impl.cc:672): Gain Controller 2 activated: 0
+(audio_processing_impl.cc:674): Pre-amplifier activated: 0
+(webrtcvoiceengine.cc:1519): Set voice channel options. Current options: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(webrtcvoiceengine.cc:1865): AddRecvStream: {id:audio_label;ssrcs:[1313300658];ssrc_groups:;cname:z/aYDZ3ccVKzFa60;stream_ids:stream_id;}
+(webrtcvideocapturer.cc:336): Captured frame size 640x480. Expected format 24BG 640x480x30
+(neteq_impl.cc:116): NetEq config: sample_rate_hz=16000, enable_post_decode_vad=true, max_packets_in_buffer=50, enable_fast_accelerate=false, enable_muted_state= true
+(audio_coding_module.cc:382): Created
+(audio_receive_stream.cc:111): AudioReceiveStream: 1313300658
+(audio_receive_stream.cc:332): AudioReceiveStream::ConfigureStream: {rtp: {remote_ssrc: 1313300658, local_ssrc: 4195875351, transport_cc: on, nack: {rtp_history_ms: 0}, extensions: []}, rtcp_send_transport: (Transport), media_transport: null, sync_group: stream_id}
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(channel.cc:680): Add remote ssrc: 1313300658
+(channel.cc:808): Changing voice state, recv=0 send=0
+(messagequeue.cc:518): Message took 60ms to dispatch. Posted from: SetRemoteContent@../../pc/channel.cc:302
+(channel.cc:1004): Setting remote video description
+(webrtcvideoengine.cc:680): SetSendParameters: {codecs: [VideoCodec[96:VP8], VideoCodec[97:rtx], VideoCodec[98:VP9], VideoCodec[99:rtx], VideoCodec[100:VP9], VideoCodec[101:rtx], VideoCodec[127:H264], VideoCodec[121:rtx], VideoCodec[125:H264], VideoCodec[120:rtx], VideoCodec[124:H264], VideoCodec[107:rtx], VideoCodec[108:H264], VideoCodec[109:rtx], VideoCodec[123:red], VideoCodec[119:rtx], VideoCodec[122:ulpfec]], conference_mode: no, extensions: [{uri: urn:ietf:params:rtp-hdrext:toffset, id: 2}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time, id: 3}, {uri: urn:3gpp:video-orientation, id: 4}, {uri: http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01, id: 5}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/playout-delay, id: 6}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-content-type, id: 7}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-timing, id: 8}, {uri: http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07, id: 10}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}], extmap-allow-mixed: false, max_bandwidth_bps: -1, mid: 1}
+(webrtcvideoengine.cc:689): Using codec: VideoCodec[96:VP8]
+(webrtcvideoengine.cc:741): SetFeedbackOptions on all the receive streams because the send codec or RTCP mode has changed.
+(webrtcvideoengine.cc:1162): AddRecvStream: {id:video_label;ssrcs:[203134688,556266706];ssrc_groups:{semantics:FID;ssrcs:[203134688,556266706]};cname:z/aYDZ3ccVKzFa60;stream_ids:stream_id;}
+(video_receive_stream.cc:155): VideoReceiveStream: {decoders: [{payload_type: 96, payload_name: VP8, codec_params: {}}, {payload_type: 98, payload_name: VP9, codec_params: {profile-id: 0}}, {payload_type: 100, payload_name: VP9, codec_params: {profile-id: 2}}, {payload_type: 102, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42001f}}, {payload_type: 104, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 0profile-level-id: 42001f}}, {payload_type: 106, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42e01f}}, {payload_type: 108, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 0profile-level-id: 42e01f}}], rtp: {remote_ssrc: 203134688, local_ssrc: 1, rtcp_mode: RtcpMode::kReducedSize, rtcp_xr: {receiver_reference_time_report: off}, remb: on, transport_cc: on, nack: {rtp_history_ms: 1000}, ulpfec_payload_type: 112, red_type: 110, rtx_ssrc: 556266706, rtx_payload_types: {97 (pt) -> 96 (apt), 99 (pt) -> 98 (apt), 101 (pt) -> 100 (apt), 103 (pt) -> 102 (apt), 105 (pt) -> 104 (apt), 107 (pt) -> 106 (apt), 109 (pt) -> 108 (apt), 111 (pt) -> 110 (apt), }, extensions: []}, renderer: (renderer), render_delay_ms: 10, sync_group: stream_id, target_delay_ms: 0}
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(h264.cc:105): Creating H264DecoderImpl.
+(h264.cc:105): Creating H264DecoderImpl.
+(h264.cc:105): Creating H264DecoderImpl.
+(h264.cc:105): Creating H264DecoderImpl.
+(channel.cc:680): Add remote ssrc: 203134688
+(channel.cc:939): Changing video state, send=0
+(peerconnection.cc:4993): Local and Remote descriptions must be applied to get the SSL Role of the SCTP transport.
+(peerconnection.cc:2476): Processing the addition of a new track for MID=0 (added to streams=[stream_id]).
+(webrtcvoiceengine.cc:1976): SetOutputVolume() to 1 for recv stream with ssrc 1313300658
+(peerconnection.cc:2476): Processing the addition of a new track for MID=1 (added to streams=[stream_id]).
+(webrtcvideoengine.cc:1293): SetSink: ssrc:203134688 (ptr)
+(conductor.cc:158): OnAddTrack 816a9c19-d76a-4572-82ca-116b4dec4bd7
+(conductor.cc:158): OnAddTrack 15345bd1-e620-4985-8aeb-14da74348580
+(win32socketserver.cc:599): WSAAsync:connect (598 ms)
+(peerconnection.cc:5020): Local and Remote descriptions must be applied to get the SSL Role of the session.
+(peerconnection.cc:5020): Local and Remote descriptions must be applied to get the SSL Role of the session.
+(conductor.cc:46): OnSuccess
+(webrtcvideoengine.cc:2541): VideoReceiveStream stats: 429787078, {ssrc: 203134688, total_bps: 0, width: 0, height: 0, key: 0, delta: 0, network_fps: 0, decode_fps: 0, render_fps: 0, decode_ms: 0, max_decode_ms: 0, cur_delay_ms: 0, targ_delay_ms: 0, jb_delay_ms: 0, min_playout_delay_ms: 0, discarded: 0, sync_offset_ms: 2147483647, cum_loss: 0, max_ext_seq: 0, nack: 0, fir: 0, pli: 0}
+(webrtcvideoengine.cc:1339): Call stats: 429787078, {send_bw_bps: 0, recv_bw_bps: 0, max_pad_bps: 0, pacer_delay_ms: 0, rtt_ms: -1}
+(dtlssrtptransport.cc:60): Setting RTCP Transport on 0 transport 0
+(dtlssrtptransport.cc:65): Setting RTP Transport on 0 transport 59875e8
+(p2ptransportchannel.cc:431): Set ICE ufrag: gl/p pwd: 7qSuTaQhZMCmzcM9RZPYLSht on transport 0
+(dtlstransport.cc:364): DtlsTransport[0|1|__]: DTLS setup complete.
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(messagequeue.cc:518): Message took 86ms to dispatch. Posted from: SetLocalDescription@../../pc/jseptransportcontroller.cc:103
+(rtptransceiver.cc:168): Changing transceiver (MID=0) current direction from <not set> to kSendRecv.
+(rtptransceiver.cc:168): Changing transceiver (MID=1) current direction from <not set> to kSendRecv.
+(channel.cc:554): Channel enabled
+(channel.cc:808): Changing voice state, recv=0 send=0
+(channel.cc:554): Channel enabled
+(channel.cc:939): Changing video state, send=0
+(peerconnection.cc:3701): Session: 3022010276447495059 Old state: kHaveRemoteOffer New state: kStable
+(channel.cc:816): Setting local voice description
+(webrtcvoiceengine.cc:1337): WebRtcVoiceMediaChannel::SetRecvParameters: {codecs: [AudioCodec[111:opus:48000:0:2], AudioCodec[103:ISAC:16000:0:1], AudioCodec[104:ISAC:32000:0:1], AudioCodec[9:G722:8000:0:1], AudioCodec[102:ILBC:8000:0:1], AudioCodec[0:PCMU:8000:0:1], AudioCodec[8:PCMA:8000:0:1], AudioCodec[106:CN:32000:0:1], AudioCodec[105:CN:16000:0:1], AudioCodec[13:CN:8000:0:1], AudioCodec[110:telephone-event:48000:0:1], AudioCodec[112:telephone-event:32000:0:1], AudioCodec[113:telephone-event:16000:0:1], AudioCodec[126:telephone-event:8000:0:1]], extensions: [{uri: urn:ietf:params:rtp-hdrext:ssrc-audio-level, id: 1}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}]}
+(webrtcvoiceengine.cc:1529): Setting receive voice codecs.
+(audio_receive_stream.cc:332): AudioReceiveStream::ConfigureStream: {rtp: {remote_ssrc: 1313300658, local_ssrc: 4195875351, transport_cc: on, nack: {rtp_history_ms: 0}, extensions: []}, rtcp_send_transport: (Transport), media_transport: null, sync_group: stream_id}
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(audio_receive_stream.cc:134): ~AudioReceiveStream: 1313300658
+(neteq_impl.cc:116): NetEq config: sample_rate_hz=16000, enable_post_decode_vad=true, max_packets_in_buffer=50, enable_fast_accelerate=false, enable_muted_state= true
+(audio_coding_module.cc:382): Created
+(audio_receive_stream.cc:111): AudioReceiveStream: 1313300658
+(audio_receive_stream.cc:332): AudioReceiveStream::ConfigureStream: {rtp: {remote_ssrc: 1313300658, local_ssrc: 4195875351, transport_cc: on, nack: {rtp_history_ms: 0}, extensions: [{uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}, {uri: urn:ietf:params:rtp-hdrext:ssrc-audio-level, id: 1}]}, rtcp_send_transport: (Transport), media_transport: null, sync_group: stream_id}
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(webrtcvoiceengine.cc:1800): AddSendStream: {id:audio_label;ssrcs:[371311760];ssrc_groups:;cname:AxHNkxGt/tHOtvv8;stream_ids:stream_id;}
+(neteq_impl.cc:116): NetEq config: sample_rate_hz=16000, enable_post_decode_vad=true, max_packets_in_buffer=50, enable_fast_accelerate=false, enable_muted_state=false
+(audio_coding_module.cc:382): Created
+(channel_send.cc:757): Not setting media_transport_ rate observers.
+(audio_send_stream.cc:144): AudioSendStream: 371311760
+(audio_send_stream.cc:209): AudioSendStream::ConfigureStream: {rtp: {ssrc: 371311760, extmap-allow-mixed: false, extensions: [{uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}, {uri: urn:ietf:params:rtp-hdrext:ssrc-audio-level, id: 1}], c_name: AxHNkxGt/tHOtvv8}, rtcp_report_interval_ms: 5000, send_transport: (Transport), media_transport: null, min_bitrate_bps: -1, max_bitrate_bps: -1, send_codec_spec: {nack_enabled: false, transport_cc_enabled: true, cng_payload_type: <unset>, payload_type: 111, format: {name: opus, clockrate_hz: 48000, num_channels: 2, parameters: {minptime: 10, useinbandfec: 1}}}}
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(audio_receive_stream.cc:332): AudioReceiveStream::ConfigureStream: {rtp: {remote_ssrc: 1313300658, local_ssrc: 371311760, transport_cc: on, nack: {rtp_history_ms: 0}, extensions: [{uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}, {uri: urn:ietf:params:rtp-hdrext:ssrc-audio-level, id: 1}]}, rtcp_send_transport: (Transport), media_transport: null, sync_group: stream_id}
+(channel.cc:634): Add send stream ssrc: 371311760
+(audio_device_impl.cc:812): Playing
+(audio_device_impl.cc:749): InitPlayout
+(audio_device_impl.cc:775): PlayoutIsInitialized
+线程 0x3980 已退出，返回值为 0 (0x0)。
+(audio_device_buffer.cc:184): SetPlayoutSampleRate(48000)
+(audio_device_buffer.cc:204): SetPlayoutChannels(2)
+(audio_device_impl.cc:755): output: 0
+(audio_device_impl.cc:787): StartPlayout
+(audio_device_impl.cc:812): Playing
+(audio_device_buffer.cc:96): StartPlayout
+(audio_device_buffer.cc:285): Size of playout buffer: 960
+(audio_device_impl.cc:794): output: 0
+(channel.cc:808): Changing voice state, recv=1 send=0
+(messagequeue.cc:518): Message took 110ms to dispatch. Posted from: SetLocalContent@../../pc/channel.cc:293
+(channel.cc:952): Setting local video description
+(webrtcvideoengine.cc:942): SetRecvParameters: {codecs: [VideoCodec[96:VP8], VideoCodec[97:rtx], VideoCodec[98:VP9], VideoCodec[99:rtx], VideoCodec[100:VP9], VideoCodec[101:rtx], VideoCodec[127:H264], VideoCodec[121:rtx], VideoCodec[125:H264], VideoCodec[120:rtx], VideoCodec[124:H264], VideoCodec[107:rtx], VideoCodec[108:H264], VideoCodec[109:rtx], VideoCodec[123:red], VideoCodec[119:rtx], VideoCodec[122:ulpfec]], extensions: [{uri: urn:ietf:params:rtp-hdrext:toffset, id: 2}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time, id: 3}, {uri: urn:3gpp:video-orientation, id: 4}, {uri: http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01, id: 5}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/playout-delay, id: 6}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-content-type, id: 7}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-timing, id: 8}, {uri: http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07, id: 10}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}]}
+(webrtcvideoengine.cc:957): Changing recv codecs from {VideoCodec[96:VP8], VideoCodec[98:VP9], VideoCodec[100:VP9], VideoCodec[102:H264], VideoCodec[104:H264], VideoCodec[106:H264], VideoCodec[108:H264]} to {VideoCodec[96:VP8], VideoCodec[98:VP9], VideoCodec[100:VP9], VideoCodec[127:H264], VideoCodec[125:H264], VideoCodec[124:H264], VideoCodec[108:H264]}
+(webrtcvideoengine.cc:2385): MaybeRecreateWebRtcFlexfecStream (recv) because of SetRecvParameters
+(webrtcvideoengine.cc:2390): RecreateWebRtcVideoStream (recv) because of SetRecvParameters
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(video_receive_stream.cc:198): ~VideoReceiveStream: {decoders: [{payload_type: 96, payload_name: VP8, codec_params: {}}, {payload_type: 98, payload_name: VP9, codec_params: {profile-id: 0}}, {payload_type: 100, payload_name: VP9, codec_params: {profile-id: 2}}, {payload_type: 102, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42001f}}, {payload_type: 104, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 0profile-level-id: 42001f}}, {payload_type: 106, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42e01f}}, {payload_type: 108, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 0profile-level-id: 42e01f}}], rtp: {remote_ssrc: 203134688, local_ssrc: 1, rtcp_mode: RtcpMode::kReducedSize, rtcp_xr: {receiver_reference_time_report: off}, remb: on, transport_cc: on, nack: {rtp_history_ms: 1000}, ulpfec_payload_type: 112, red_type: 110, rtx_ssrc: 556266706, rtx_payload_types: {97 (pt) -> 96 (apt), 99 (pt) -> 98 (apt), 101 (pt) -> 100 (apt), 103 (pt) -> 102 (apt), 105 (pt) -> 104 (apt), 107 (pt) -> 106 (apt), 109 (pt) -> 108 (apt), 111 (pt) -> 110 (apt), }, extensions: []}, renderer: (renderer), render_delay_ms: 10, sync_group: stream_id, target_delay_ms: 0}
+线程 0x10e0 已退出，返回值为 0 (0x0)。
+线程 0x38c4 已退出，返回值为 0 (0x0)。
+(video_render_frames.cc:47): WebRTC.Video.DroppedFrames.RenderQueue 0
+(receive_statistics_proxy.cc:487): Frames decoded 0
+WebRTC.Video.DroppedFrames.Receiver 0
+
+(video_receive_stream.cc:155): VideoReceiveStream: {decoders: [{payload_type: 96, payload_name: VP8, codec_params: {}}, {payload_type: 98, payload_name: VP9, codec_params: {profile-id: 0}}, {payload_type: 100, payload_name: VP9, codec_params: {profile-id: 2}}, {payload_type: 127, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42001f}}, {payload_type: 125, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 0profile-level-id: 42001f}}, {payload_type: 124, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42e01f}}, {payload_type: 108, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 0profile-level-id: 42e01f}}], rtp: {remote_ssrc: 203134688, local_ssrc: 1, rtcp_mode: RtcpMode::kReducedSize, rtcp_xr: {receiver_reference_time_report: off}, remb: on, transport_cc: on, nack: {rtp_history_ms: 1000}, ulpfec_payload_type: 122, red_type: 123, rtx_ssrc: 556266706, rtx_payload_types: {97 (pt) -> 96 (apt), 99 (pt) -> 98 (apt), 101 (pt) -> 100 (apt), 107 (pt) -> 124 (apt), 109 (pt) -> 108 (apt), 119 (pt) -> 123 (apt), 120 (pt) -> 125 (apt), 121 (pt) -> 127 (apt), }, extensions: [{uri: http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07, id: 10}, {uri: http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01, id: 5}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time, id: 3}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/playout-delay, id: 6}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-content-type, id: 7}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-timing, id: 8}, {uri: urn:3gpp:video-orientation, id: 4}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}, {uri: urn:ietf:params:rtp-hdrext:toffset, id: 2}]}, renderer: (renderer), render_delay_ms: 10, sync_group: stream_id, target_delay_ms: 0}
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(h264.cc:105): Creating H264DecoderImpl.
+(h264.cc:105): Creating H264DecoderImpl.
+(h264.cc:105): Creating H264DecoderImpl.
+(h264.cc:105): Creating H264DecoderImpl.
+(webrtcvideoengine.cc:1061): AddSendStream: {id:video_label;ssrcs:[3615028400,970101];ssrc_groups:{semantics:FID;ssrcs:[3615028400,970101]};cname:AxHNkxGt/tHOtvv8;stream_ids:stream_id;}
+(webrtcvideoengine.cc:1764): RecreateWebRtcStream (send) because of SetCodec.
+(alr_experiment.cc:66): Using ALR experiment settings: pacing factor: 1, max pacer queue length: 2875, ALR start bandwidth usage percent: 80, ALR end budget level percent: 40, ALR end budget level percent: -60, ALR experiment group ID: 3
+(video_send_stream_impl.cc:265): VideoSendStreamInternal: {encoder_settings: { experiment_cpu_load_estimator: off}}, rtp: {ssrcs: [3615028400], rtcp_mode: RtcpMode::kReducedSize, max_packet_size: 1200, extmap-allow-mixed: false, extensions: [{uri: http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07, id: 10}, {uri: http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01, id: 5}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/playout-delay, id: 6}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-content-type, id: 7}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-timing, id: 8}, {uri: urn:3gpp:video-orientation, id: 4}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}], nack: {rtp_history_ms: 1000}, ulpfec: {ulpfec_payload_type: 122, red_payload_type: 123, red_rtx_payload_type: 119}, payload_name: VP8, payload_type: 96, flexfec: {payload_type: -1, ssrc: 0, protected_media_ssrcs: []}, rtx: {ssrcs: [970101], payload_type: 97}, c_name: AxHNkxGt/tHOtvv8}, rtcp_report_interval_ms: 1000, pre_encode_callback: nullptr, render_delay_ms: 0, target_delay_ms: 0, suspend_below_min_bitrate: off}
+(video_send_stream_impl.cc:284): ERROR: Initial encoder max bitrate = -1 which is <= 0!
+(video_send_stream_impl.cc:286): Using default encoder max bitrate = 10 Mbps
+(video_stream_encoder.cc:491): ConfigureEncoder requested.
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(video_send_stream.cc:155): VideoSendStream::Stop
+(webrtcvideoengine.cc:1097): SetLocalSsrc on all the receive streams because we added a send stream.
+(webrtcvideoengine.cc:2326): RecreateWebRtcStream (recv) because of SetLocalSsrc; local_ssrc=3615028400
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(video_send_stream_impl.cc:408): VideoSendStream::Stop
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(video_receive_stream.cc:198): ~VideoReceiveStream: {decoders: [{payload_type: 96, payload_name: VP8, codec_params: {}}, {payload_type: 98, payload_name: VP9, codec_params: {profile-id: 0}}, {payload_type: 100, payload_name: VP9, codec_params: {profile-id: 2}}, {payload_type: 127, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42001f}}, {payload_type: 125, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 0profile-level-id: 42001f}}, {payload_type: 124, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42e01f}}, {payload_type: 108, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 0profile-level-id: 42e01f}}], rtp: {remote_ssrc: 203134688, local_ssrc: 1, rtcp_mode: RtcpMode::kReducedSize, rtcp_xr: {receiver_reference_time_report: off}, remb: on, transport_cc: on, nack: {rtp_history_ms: 1000}, ulpfec_payload_type: 122, red_type: 123, rtx_ssrc: 556266706, rtx_payload_types: {97 (pt) -> 96 (apt), 99 (pt) -> 98 (apt), 101 (pt) -> 100 (apt), 107 (pt) -> 124 (apt), 109 (pt) -> 108 (apt), 119 (pt) -> 123 (apt), 120 (pt) -> 125 (apt), 121 (pt) -> 127 (apt), }, extensions: [{uri: http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07, id: 10}, {uri: http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01, id: 5}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time, id: 3}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/playout-delay, id: 6}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-content-type, id: 7}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-timing, id: 8}, {uri: urn:3gpp:video-orientation, id: 4}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}, {uri: urn:ietf:params:rtp-hdrext:toffset, id: 2}]}, renderer: (renderer), render_delay_ms: 10, sync_group: stream_id, target_delay_ms: 0}
+线程 0x14c4 已退出，返回值为 0 (0x0)。
+线程 0xac0 已退出，返回值为 0 (0x0)。
+(video_render_frames.cc:47): WebRTC.Video.DroppedFrames.RenderQueue 0
+(receive_statistics_proxy.cc:487): Frames decoded 0
+WebRTC.Video.DroppedFrames.Receiver 0
+
+(video_receive_stream.cc:155): VideoReceiveStream: {decoders: [{payload_type: 96, payload_name: VP8, codec_params: {}}, {payload_type: 98, payload_name: VP9, codec_params: {profile-id: 0}}, {payload_type: 100, payload_name: VP9, codec_params: {profile-id: 2}}, {payload_type: 127, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42001f}}, {payload_type: 125, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 0profile-level-id: 42001f}}, {payload_type: 124, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42e01f}}, {payload_type: 108, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 0profile-level-id: 42e01f}}], rtp: {remote_ssrc: 203134688, local_ssrc: 3615028400, rtcp_mode: RtcpMode::kReducedSize, rtcp_xr: {receiver_reference_time_report: off}, remb: on, transport_cc: on, nack: {rtp_history_ms: 1000}, ulpfec_payload_type: 122, red_type: 123, rtx_ssrc: 556266706, rtx_payload_types: {97 (pt) -> 96 (apt), 99 (pt) -> 98 (apt), 101 (pt) -> 100 (apt), 107 (pt) -> 124 (apt), 109 (pt) -> 108 (apt), 119 (pt) -> 123 (apt), 120 (pt) -> 125 (apt), 121 (pt) -> 127 (apt), }, extensions: [{uri: http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07, id: 10}, {uri: http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01, id: 5}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time, id: 3}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/playout-delay, id: 6}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-content-type, id: 7}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-timing, id: 8}, {uri: urn:3gpp:video-orientation, id: 4}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}, {uri: urn:ietf:params:rtp-hdrext:toffset, id: 2}]}, renderer: (renderer), render_delay_ms: 10, sync_group: stream_id, target_delay_ms: 0}
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(h264.cc:105): Creating H264DecoderImpl.
+(h264.cc:105): Creating H264DecoderImpl.
+(h264.cc:105): Creating H264DecoderImpl.
+(h264.cc:105): Creating H264DecoderImpl.
+(channel.cc:634): Add send stream ssrc: 3615028400
+(video_send_stream.cc:155): VideoSendStream::Stop
+(channel.cc:939): Changing video state, send=0
+(video_send_stream_impl.cc:408): VideoSendStream::Stop
+(messagequeue.cc:518): Message took 56ms to dispatch. Posted from: SetLocalContent@../../pc/channel.cc:293
+(peerconnection.cc:4999): Non-rejected SCTP m= section is needed to get the SSL Role of the SCTP transport.
+(webrtcvoiceengine.cc:1501): Setting voice channel options: AudioOptions {}
+(webrtcvoiceengine.cc:313): WebRtcVoiceEngine::ApplyOptions: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(webrtcvoiceengine.cc:474): NetEq capacity is 50
+(webrtcvoiceengine.cc:480): NetEq fast mode? 0
+(webrtcvoiceengine.cc:498): Delay agnostic aec is enabled? 0
+(webrtcvoiceengine.cc:508): Extended filter aec is enabled? 0
+(webrtcvoiceengine.cc:518): Experimental ns is enabled? 0
+(audio_processing_impl.cc:658): Highpass filter activated: 1
+(audio_processing_impl.cc:672): Gain Controller 2 activated: 0
+(audio_processing_impl.cc:674): Pre-amplifier activated: 0
+(webrtcvoiceengine.cc:1519): Set voice channel options. Current options: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(webrtcvideoengine.cc:1020): SetVideoSend (ssrc= 3615028400, options: VideoOptions {is_screencast : false, }, source = (source))
+(video_stream_encoder.cc:491): ConfigureEncoder requested.
+(basicportallocator.cc:339): Start getting ports with prune_turn_ports disabled
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\dhcpcsvc6.dll”。无法查找或打开 PDB 文件。
+“peerconnection_client.exe”(Win32): 已加载“C:\Windows\SysWOW64\dhcpcsvc.dll”。无法查找或打开 PDB 文件。
+(basicportallocator.cc:107): Filtered out ignored networks:
+(basicportallocator.cc:109): Net[Software:::1/128:Loopback:id=2]
+(basicportallocator.cc:109): Net[Software:127.0.0.1/32:Loopback:id=1]
+(basicportallocator.cc:856): Network manager has started
+(basicportallocator.cc:107): Filtered out ignored networks:
+(basicportallocator.cc:109): Net[Software:::1/128:Loopback:id=2]
+(basicportallocator.cc:109): Net[Software:127.0.0.1/32:Loopback:id=1]
+(basicportallocator.cc:770): Allocate ports on 5 networks
+(basicportallocator.cc:1322): Net[Teredo:2001::2841:aa90:20ba:15e1:2df3:fddd/128:Unknown:id=3]: Allocation Phase=Udp
+(messagequeue.cc:518): Message took 389ms to dispatch. Posted from: PostCreateSessionDescriptionSucceeded@../../pc/webrtcsessiondescriptionfactory.cc:450
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(port.cc:322): Port[19ffd0::1:0:local:Net[Teredo:2001::2841:aa90:20ba:15e1:2df3:fddd/128:Unknown:id=3]]: Port created with network cost 50
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[19ffd0:0:1:0:local:Net[Teredo:2001::2841:aa90:20ba:15e1:2df3:fddd/128:Unknown:id=3]]: Added port to allocator
+(peer_connection_client.cc:474): OnClose
+(basicportallocator.cc:917): Port[19ffd0:0:1:0:local:Net[Teredo:2001::2841:aa90:20ba:15e1:2df3:fddd/128:Unknown:id=3]]: Gathered candidate: Cand[:3511013422:1:udp:2122255103:[2001::2841:aa90:20ba:15e1:2df3:fddd]:59874:local::0:gl/p:7qSuTaQhZMCmzcM9RZPYLSht:3:50:0]
+(basicportallocator.cc:945): Port[19ffd0:0:1:0:local:Net[Teredo:2001::2841:aa90:20ba:15e1:2df3:fddd/128:Unknown:id=3]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[19ffd0:0:1:0:local:Net[Teredo:2001::2841:aa90:20ba:15e1:2df3:fddd/128:Unknown:id=3]]: SetOption(5, 0) failed: 0
+(stunport.cc:415): Port[19ffd0:0:1:0:local:Net[Teredo:2001::2841:aa90:20ba:15e1:2df3:fddd/128:Unknown:id=3]]: Starting STUN host lookup for stun.l.google.com:19302
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]: Allocation Phase=Udp
+(port.cc:322): Port[1a49b8::1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Port created with network cost 0
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[1a49b8:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Added port to allocator
+(basicportallocator.cc:917): Port[1a49b8:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Gathered candidate: Cand[:3918727013:1:udp:2122194687:192.168.59.3:59875:local::0:gl/p:7qSuTaQhZMCmzcM9RZPYLSht:4:0:0]
+(basicportallocator.cc:945): Port[1a49b8:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[1a49b8:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: SetOption(5, 0) failed: 0
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:3511013422 1 udp 2122255103 2001::2841:aa90:20ba:15e1:2df3:fddd 58236 typ host generation 0 ufrag 4Q5B network-id 3 network-cost 50",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+线程 0xa50 已退出，返回值为 0 (0x0)。
+(stunport.cc:415): Port[1a49b8:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Starting STUN host lookup for stun.l.google.com:19302
+线程 0x1eb0 已退出，返回值为 0 (0x0)。
+(port.cc:1122): Conn[5997168:0:Net[Teredo:2001::2841:aa90:20ba:15e1:2df3:fddd/128:Unknown:id=3]:k8VxmDTv:1:0:local:udp:[2001::2841:aa90:20ba:15e1:2df3:fddd]:59874->mwInenc6:1:2122255103:local:udp:[2001::2841:aa90:20ba:15e1:2df3:fddd]:58236|C--W|-|0|0|9115016265398621694|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|__]: Created connection with origin: 2, total: 1
+(p2ptransportchannel.cc:1873): Channel[0|1|__]: Transport channel state changed from 0 to 2
+(jseptransportcontroller.cc:1251): 0 Transport 1 state changed. Check if state is complete.
+(p2ptransportchannel.cc:1451): Channel[0|1|__]: Have a pingable connection for the first time; starting to ping.
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]: Allocation Phase=Udp
+(peerconnection.cc:3630): Changing IceConnectionState 0 => 1
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:3511013422 1 udp 2122255103 2001::2841:aa90:20ba:15e1:2df3:fddd 58236 typ host generation 0 ufrag 4Q5B network-id 3 network-cost 50",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(conductor.cc:483): SendToPeer 1 : {
+   "sdp" : "v=0\r\no=- 3022010276447495059 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1\r\na=msid-semantic: WMS stream_id\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 102 0 8 106 105 13 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:gl/p\r\na=ice-pwd:7qSuTaQhZMCmzcM9RZPYLSht\r\na=ice-options:trickle\r\na=fingerprint:sha-256 2E:D4:6C:9E:78:EE:E5:47:2E:32:A0:DB:7E:17:92:51:E1:2B:09:18:D9:C2:72:08:88:D9:4E:9E:8B:7E:07:FC\r\na=setup:active\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:stream_id audio_label\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:102 ILBC/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:106 CN/32000\r\na=rtpmap:105 CN/16000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:371311760 cname:AxHNkxGt/tHOtvv8\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 127 121 125 120 124 107 108 109 123 119 122\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:gl/p\r\na=ice-pwd:7qSuTaQhZMCmzcM9RZPYLSht\r\na=ice-options:trickle\r\na=fingerprint:sha-256 2E:D4:6C:9E:78:EE:E5:47:2E:32:A0:DB:7E:17:92:51:E1:2B:09:18:D9:C2:72:08:88:D9:4E:9E:8B:7E:07:FC\r\na=setup:active\r\na=mid:1\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 urn:3gpp:video-orientation\r\na=extmap:5 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:10 http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:stream_id video_label\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=125\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=124\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:123 red/90000\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:122 ulpfec/90000\r\na=ssrc-group:FID 3615028400 970101\r\na=ssrc:3615028400 cname:AxHNkxGt/tHOtvv8\r\na=ssrc:970101 cname:AxHNkxGt/tHOtvv8\r\n",
+   "type" : "answer"
+}
+
+(port.cc:322): Port[7458f30::1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Port created with network cost 0
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[7458f30:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Added port to allocator
+(basicportallocator.cc:917): Port[7458f30:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Gathered candidate: Cand[:2218435994:1:udp:2122129151:192.168.99.1:59876:local::0:gl/p:7qSuTaQhZMCmzcM9RZPYLSht:5:0:0]
+(basicportallocator.cc:945): Port[7458f30:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[7458f30:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: SetOption(5, 0) failed: 0
+(stunport.cc:415): Port[7458f30:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Starting STUN host lookup for stun.l.google.com:19302
+(basicportallocator.cc:1322): Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]: Allocation Phase=Udp
+(port.cc:322): Port[7459860::1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Port created with network cost 0
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 0
+(win32socketserver.cc:599): WSAAsync:connect (5 ms)
+(conductor.cc:46): OnSuccess
+(conductor.cc:170): OnIceCandidate 0
+线程 0x2890 已退出，返回值为 0 (0x0)。
+(basicportallocator.cc:899): Port[7459860:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Added port to allocator
+(conductor.cc:170): OnIceCandidate 0
+(conductor.cc:170): OnIceCandidate 0
+(basicportallocator.cc:917): Port[7459860:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Gathered candidate: Cand[:1670184482:1:udp:2122063615:169.254.254.138:59877:local::0:gl/p:7qSuTaQhZMCmzcM9RZPYLSht:6:0:0]
+(basicportallocator.cc:945): Port[7459860:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[7459860:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: SetOption(5, 0) failed: 0
+(win32socketserver.cc:599): WSAAsync:connect (2 ms)
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(stunport.cc:415): Port[7459860:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Starting STUN host lookup for stun.l.google.com:19302
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(basicportallocator.cc:1322): Net[Realtek:10.155.31.100/32:Ethernet:id=7]: Allocation Phase=Udp
+(port.cc:322): Port[7420f38::1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port created with network cost 0
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[7420f38:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Added port to allocator
+(basicportallocator.cc:917): Port[7420f38:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Gathered candidate: Cand[:4147939438:1:udp:2121998079:10.155.31.100:59878:local::0:gl/p:7qSuTaQhZMCmzcM9RZPYLSht:7:0:0]
+(basicportallocator.cc:945): Port[7420f38:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[7420f38:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: SetOption(5, 0) failed: 0
+线程 0x2f10 已退出，返回值为 0 (0x0)。
+(peer_connection_client.cc:474): OnClose
+(stunport.cc:415): Port[7420f38:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Starting STUN host lookup for stun.l.google.com:19302
+线程 0x20bc 已退出，返回值为 0 (0x0)。
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:3918727013 1 udp 2122194687 192.168.59.3 58237 typ host generation 0 ufrag 4Q5B network-id 4",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(port.cc:1122): Conn[7456f60:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--W|-|0|0|9113912355724213759|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|__]: Created connection with origin: 2, total: 2
+(port.cc:1122): Conn[7457718:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--W|-|0|0|9114193830700924415|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|__]: Created connection with origin: 2, total: 3
+(port.cc:1122): Conn[7435f28:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--W|-|0|0|9114475305677635071|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|__]: Created connection with origin: 2, total: 4
+(port.cc:1122): Conn[74366e0:0:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]:KipnPmxs:1:0:local:udp:192.168.59.3:59875->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--W|-|0|0|9114756780654345726|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|__]: Created connection with origin: 2, total: 5
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:3918727013 1 udp 2122194687 192.168.59.3 58237 typ host generation 0 ufrag 4Q5B network-id 4",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(win32socketserver.cc:599): WSAAsync:connect (3 ms)
+(conductor.cc:170): OnIceCandidate 0
+(conductor.cc:170): OnIceCandidate 0
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(conductor.cc:483): SendToPeer 1 : {
+   "candidate" : "candidate:3511013422 1 udp 2122255103 2001::2841:aa90:20ba:15e1:2df3:fddd 59874 typ host generation 0 ufrag gl/p network-id 3 network-cost 50",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(port.cc:1744): Conn[74366e0:0:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]:KipnPmxs:1:0:local:udp:192.168.59.3:59875->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--W|-|0|0|9114756780654345726|-]: Sent STUN ping, id=30584f374a64696c6c445254, use_candidate=0, nomination=0
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(win32socketserver.cc:599): WSAAsync:connect (0 ms)
+(port.cc:1690): Conn[74366e0:0:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]:KipnPmxs:1:0:local:udp:192.168.59.3:59875->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9114756780654345726|-]: Received STUN ping response, id=30584f374a64696c6c445254, code=0, rtt=2, pings_since_last_response=30584f374a64696c6c445254 
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(p2ptransportchannel.cc:271): Switching selected connection due to: candidate pair state changed
+(peer_connection_client.cc:474): OnClose
+(p2ptransportchannel.cc:1828): Channel[0|1|__]: New selected connection: Conn[74366e0:0:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]:KipnPmxs:1:0:local:udp:192.168.59.3:59875->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|CRWS|S|0|0|9114756780654345726|2]
+(channel.cc:376): Network route was changed.
+(channel.cc:376): Network route was changed.
+(dtlstransport.cc:779): DtlsTransport[0|1|__]: configuring DTLS handshake timeout 50 based on ICE RTT 2
+(opensslstreamadapter.cc:785): BeginSSL with peer.
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:2218435994 1 udp 2122129151 192.168.99.1 58238 typ host generation 0 ufrag 4Q5B network-id 5",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(openssladapter.cc:812): SSL_connect:TLS client enter_early_data
+(openssladapter.cc:812): SSL_connect:TLS client read_hello_verify_request
+(openssladapter.cc:822): SSL_connect:error in TLS client read_hello_verify_request
+(dtlstransport.cc:692): DtlsTransport[0|1|__]: DtlsTransport: Started DTLS handshake
+(srtptransport.cc:358): The params in SRTP transport are reset.
+(port.cc:1122): Conn[74818e8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--W|-|0|0|9113912355724082687|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 6
+(port.cc:1122): Conn[7484760:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--W|-|0|0|9114193830700793343|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 7
+(port.cc:1122): Conn[7484f18:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--W|-|0|0|9114475305677503998|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 8
+(port.cc:1122): Conn[74886d0:0:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]:KipnPmxs:1:0:local:udp:192.168.59.3:59875->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--W|-|0|0|9114475305677635070|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 9
+(p2ptransportchannel.cc:1873): Channel[0|1|RW]: Transport channel state changed from 2 to 1
+(jseptransportcontroller.cc:1251): 0 Transport 1 state changed. Check if state is complete.
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:2218435994 1 udp 2122129151 192.168.99.1 58238 typ host generation 0 ufrag 4Q5B network-id 5",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (7 ms)
+(video_stream_encoder.cc:799): Video frame parameters changed: dimensions=640x480, texture=0.
+(peer_connection_client.cc:298): Headers received
+(video_stream_encoder.cc:157): Set max framerate: 60
+(basicportallocator.cc:1124): All candidates gathered for 0:1:0
+(peer_connection_client.cc:474): OnClose
+(p2ptransportchannel.cc:832): P2PTransportChannel: 0, component 1 gathering complete
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:1670184482 1 udp 2122063615 169.254.254.138 58239 typ host generation 0 ufrag 4Q5B network-id 6",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(port.cc:1122): Conn[74f96f8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--W|-|0|0|9113912355723951615|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 10
+(port.cc:1122): Conn[74f9eb0:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--W|-|0|0|9114193830700662270|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 11
+(port.cc:1122): Conn[74fbf70:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--W|-|0|0|9114193830700793342|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 12
+(port.cc:1122): Conn[74fc728:0:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]:KipnPmxs:1:0:local:udp:192.168.59.3:59875->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--W|-|0|0|9114193830700924414|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 13
+(port.cc:1390): Conn[74886d0:0:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]:KipnPmxs:1:0:local:udp:192.168.59.3:59875->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--W|-|0|0|9114475305677635070|-]: Connection pruned
+(port.cc:1390): Conn[74fc728:0:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]:KipnPmxs:1:0:local:udp:192.168.59.3:59875->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--W|-|0|0|9114193830700924414|-]: Connection pruned
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:1670184482 1 udp 2122063615 169.254.254.138 58239 typ host generation 0 ufrag 4Q5B network-id 6",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(conductor.cc:483): SendToPeer 1 : {
+   "candidate" : "candidate:3918727013 1 udp 2122194687 192.168.59.3 59875 typ host generation 0 ufrag gl/p network-id 4",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (5 ms)
+(win32socketserver.cc:599): WSAAsync:connect (1 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(openssladapter.cc:812): SSL_connect:TLS client read_server_hello
+(openssladapter.cc:812): SSL_connect:TLS client read_server_certificate
+(peer_connection_client.cc:474): OnClose
+(openssladapter.cc:812): SSL_connect:TLS client read_certificate_status
+(openssladapter.cc:812): SSL_connect:TLS client verify_server_certificate
+(opensslstreamadapter.cc:1111): Accepted peer certificate.
+(openssladapter.cc:812): SSL_connect:TLS client read_server_key_exchange
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:4147939438 1 udp 2121998079 10.155.31.100 58240 typ host generation 0 ufrag 4Q5B network-id 7",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(openssladapter.cc:812): SSL_connect:TLS client read_certificate_request
+(openssladapter.cc:812): SSL_connect:TLS client read_server_hello_done
+(openssladapter.cc:812): SSL_connect:TLS client send_client_certificate
+(openssladapter.cc:812): SSL_connect:TLS client send_client_key_exchange
+(openssladapter.cc:812): SSL_connect:TLS client send_client_certificate_verify
+(openssladapter.cc:812): SSL_connect:TLS client send_client_finished
+(openssladapter.cc:812): SSL_connect:TLS client finish_flight
+(openssladapter.cc:812): SSL_connect:TLS client read_session_ticket
+(openssladapter.cc:822): SSL_connect:error in TLS client read_session_ticket
+(port.cc:1122): Conn[82e1108:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->jgeBQ85l:1:2121998079:local:udp:10.155.31.100:58240|C--W|-|0|0|9113912355723820542|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 14
+(port.cc:1122): Conn[82e18c0:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->jgeBQ85l:1:2121998079:local:udp:10.155.31.100:58240|C--W|-|0|0|9113912355723951614|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 15
+(port.cc:1122): Conn[82e2078:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->jgeBQ85l:1:2121998079:local:udp:10.155.31.100:58240|C--W|-|0|0|9113912355724082686|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 16
+(port.cc:1122): Conn[82e2830:0:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]:KipnPmxs:1:0:local:udp:192.168.59.3:59875->jgeBQ85l:1:2121998079:local:udp:10.155.31.100:58240|C--W|-|0|0|9113912355724213758|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 17
+(port.cc:1390): Conn[82e2830:0:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]:KipnPmxs:1:0:local:udp:192.168.59.3:59875->jgeBQ85l:1:2121998079:local:udp:10.155.31.100:58240|C--W|-|0|0|9113912355724213758|-]: Connection pruned
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:4147939438 1 udp 2121998079 10.155.31.100 58240 typ host generation 0 ufrag 4Q5B network-id 7",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(win32socketserver.cc:599): WSAAsync:connect (30 ms)
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(conductor.cc:483): SendToPeer 1 : {
+   "candidate" : "candidate:2218435994 1 udp 2122129151 192.168.99.1 59876 typ host generation 0 ufrag gl/p network-id 5",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(basicportallocator.cc:917): Port[7420f38:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Gathered candidate: Cand[:1987350234:1:udp:1685790463:210.12.2.34:59878:stun:10.155.31.100:59878:gl/p:7qSuTaQhZMCmzcM9RZPYLSht:7:0:0]
+(basicportallocator.cc:922): Discarding candidate because port is already done gathering.
+(basicportallocator.cc:1022): Port[7420f38:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port completed gathering candidates.
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:3511013422 1 udp 2122255103 2001::2841:aa90:20ba:15e1:2df3:fddd 58241 typ host generation 0 ufrag 4Q5B network-id 3 network-cost 50",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(jseptransportcontroller.cc:307): Not adding candidate because the JsepTransport doesn't exist. Ignore it.
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:3511013422 1 udp 2122255103 2001::2841:aa90:20ba:15e1:2df3:fddd 58241 typ host generation 0 ufrag 4Q5B network-id 3 network-cost 50",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (3 ms)
+(win32socketserver.cc:599): WSAAsync:connect (1 ms)
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(conductor.cc:483): SendToPeer 1 : {
+   "candidate" : "candidate:1670184482 1 udp 2122063615 169.254.254.138 59877 typ host generation 0 ufrag gl/p network-id 6",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(openssladapter.cc:812): SSL_connect:TLS client process_change_cipher_spec
+(openssladapter.cc:812): SSL_connect:TLS client read_server_finished
+(openssladapter.cc:812): SSL_connect:TLS client finish_client_handshake
+(openssladapter.cc:812): SSL_connect:TLS client done
+(dtlstransport.cc:624): DtlsTransport[0|1|__]: DTLS handshake complete.
+(jseptransportcontroller.cc:1188):  Transport 0 writability changed to 1.
+(dtlssrtptransport.cc:218): Extracting keys from transport: 0
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:3918727013 1 udp 2122194687 192.168.59.3 58242 typ host generation 0 ufrag 4Q5B network-id 4",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=up
+(send_side_congestion_controller.cc:334): SignalNetworkState Up
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=up
+(send_side_congestion_controller.cc:334): SignalNetworkState Up
+(send_side_congestion_controller.cc:185): Creating fallback controller
+(quality_scaler.cc:72): Created CheckQpTask. Scheduling on queue...
+(quality_scaler.cc:125): QP thresholds: low: 29, high: 95
+(alr_experiment.cc:66): Using ALR experiment settings: pacing factor: 1, max pacer queue length: 2875, ALR start bandwidth usage percent: 80, ALR end budget level percent: 40, ALR end budget level percent: -60, ALR experiment group ID: 3
+(aimd_rate_control.cc:103): Using aimd rate control with back off factor 0.85
+(delay_based_bwe.cc:100): Using Trendline filter for delay change estimation with window size 20
+(delay_based_bwe.cc:310): BWE Setting start bitrate to: 300 kbps
+(probe_controller.cc:196): Measured bitrate: 300000 Minimum to probe further: 1260000
+(bitrate_prober.cc:111): Probe cluster (bitrate:min bytes:min packets): (900000:1687:5)
+(bitrate_prober.cc:111): Probe cluster (bitrate:min bytes:min packets): (1800000:3375:5)
+(control_handler.cc:150): Bitrate estimate state changed, BWE: 300000 bps.
+(bitrate_allocator.cc:111): Current BWE 300000
+(srtptransport.cc:303): SRTP activated with negotiated parameters: send cipher_suite 1 recv cipher_suite 1
+(channel.cc:584): Channel writable (0) for the first time
+(channel.cc:584): Channel writable (1) for the first time
+(jseptransportcontroller.cc:307): Not adding candidate because the JsepTransport doesn't exist. Ignore it.
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:3918727013 1 udp 2122194687 192.168.59.3 58242 typ host generation 0 ufrag 4Q5B network-id 4",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(webrtcvoiceengine.cc:313): WebRtcVoiceEngine::ApplyOptions: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(win32socketserver.cc:599): WSAAsync:connect (22 ms)
+(win32socketserver.cc:599): WSAAsync:connect (19 ms)
+(peerconnection.cc:5532): Changing to ICE connected state because all transports are writable.
+(peerconnection.cc:3630): Changing IceConnectionState 1 => 2
+(webrtcvoiceengine.cc:474): NetEq capacity is 50
+(webrtcvoiceengine.cc:480): NetEq fast mode? 0
+(webrtcvoiceengine.cc:498): Delay agnostic aec is enabled? 0
+(webrtcvoiceengine.cc:508): Extended filter aec is enabled? 0
+(webrtcvoiceengine.cc:518): Experimental ns is enabled? 0
+(audio_processing_impl.cc:658): Highpass filter activated: 1
+(peer_connection_client.cc:298): Headers received
+(audio_processing_impl.cc:672): Gain Controller 2 activated: 0
+(audio_processing_impl.cc:674): Pre-amplifier activated: 0
+(audio_device_impl.cc:781): RecordingIsInitialized
+(audio_device_impl.cc:843): Recording
+(audio_device_impl.cc:762): InitRecording
+(audio_device_impl.cc:781): RecordingIsInitialized
+(peer_connection_client.cc:474): OnClose
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:2218435994 1 udp 2122129151 192.168.99.1 58243 typ host generation 0 ufrag 4Q5B network-id 5",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(jseptransportcontroller.cc:307): Not adding candidate because the JsepTransport doesn't exist. Ignore it.
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:2218435994 1 udp 2122129151 192.168.99.1 58243 typ host generation 0 ufrag 4Q5B network-id 5",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(conductor.cc:483): SendToPeer 1 : {
+   "candidate" : "candidate:4147939438 1 udp 2121998079 10.155.31.100 59878 typ host generation 0 ufrag gl/p network-id 7",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (2 ms)
+(win32socketserver.cc:599): WSAAsync:connect (0 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:1670184482 1 udp 2122063615 169.254.254.138 58244 typ host generation 0 ufrag 4Q5B network-id 6",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(jseptransportcontroller.cc:307): Not adding candidate because the JsepTransport doesn't exist. Ignore it.
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:1670184482 1 udp 2122063615 169.254.254.138 58244 typ host generation 0 ufrag 4Q5B network-id 6",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (1 ms)
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:471): SEND_MESSAGE_TO_PEER
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:4147939438 1 udp 2121998079 10.155.31.100 58245 typ host generation 0 ufrag 4Q5B network-id 7",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(jseptransportcontroller.cc:307): Not adding candidate because the JsepTransport doesn't exist. Ignore it.
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:4147939438 1 udp 2121998079 10.155.31.100 58245 typ host generation 0 ufrag 4Q5B network-id 7",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (2 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:1987350234 1 udp 1685790463 210.12.2.34 58245 typ srflx raddr 10.155.31.100 rport 58245 generation 0 ufrag 4Q5B network-id 7",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(jseptransportcontroller.cc:307): Not adding candidate because the JsepTransport doesn't exist. Ignore it.
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:1987350234 1 udp 1685790463 210.12.2.34 58245 typ srflx raddr 10.155.31.100 rport 58245 generation 0 ufrag 4Q5B network-id 7",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (1 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:1987350234 1 udp 1685790463 210.12.2.34 58240 typ srflx raddr 10.155.31.100 rport 58240 generation 0 ufrag 4Q5B network-id 7",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(port.cc:1122): Conn[2164e8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->7wEpKn3m:1:1685790463:stun:udp:210.12.2.34:58240|C--W|-|0|0|7240414910737694206|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 18
+(port.cc:1122): Conn[216cb0:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->7wEpKn3m:1:1685790463:stun:udp:210.12.2.34:58240|C--W|-|0|0|7240414910737825278|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 19
+(port.cc:1122): Conn[217478:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->7wEpKn3m:1:1685790463:stun:udp:210.12.2.34:58240|C--W|-|0|0|7240414910737956350|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 20
+(port.cc:1122): Conn[217c40:0:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]:KipnPmxs:1:0:local:udp:192.168.59.3:59875->7wEpKn3m:1:1685790463:stun:udp:210.12.2.34:58240|C--W|-|0|0|7240414910738087422|-]: Connection created
+(p2ptransportchannel.cc:1237): Channel[0|1|RW]: Created connection with origin: 2, total: 21
+(port.cc:1390): Conn[217c40:0:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]:KipnPmxs:1:0:local:udp:192.168.59.3:59875->7wEpKn3m:1:1685790463:stun:udp:210.12.2.34:58240|C--W|-|0|0|7240414910738087422|-]: Connection pruned
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:1987350234 1 udp 1685790463 210.12.2.34 58240 typ srflx raddr 10.155.31.100 rport 58240 generation 0 ufrag 4Q5B network-id 7",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (2 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:2680564958 1 tcp 1518275327 2001::2841:aa90:20ba:15e1:2df3:fddd 10411 typ host tcptype passive generation 0 ufrag 4Q5B network-id 3 network-cost 50",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:2680564958 1 tcp 1518275327 2001::2841:aa90:20ba:15e1:2df3:fddd 10411 typ host tcptype passive generation 0 ufrag 4Q5B network-id 3 network-cost 50",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (2 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:2802908053 1 tcp 1518214911 192.168.59.3 10412 typ host tcptype passive generation 0 ufrag 4Q5B network-id 4",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:2802908053 1 tcp 1518214911 192.168.59.3 10412 typ host tcptype passive generation 0 ufrag 4Q5B network-id 4",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (2 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:3401144682 1 tcp 1518149375 192.168.99.1 10413 typ host tcptype passive generation 0 ufrag 4Q5B network-id 5",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:3401144682 1 tcp 1518149375 192.168.99.1 10413 typ host tcptype passive generation 0 ufrag 4Q5B network-id 5",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (2 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:755958482 1 tcp 1518083839 169.254.254.138 10414 typ host tcptype passive generation 0 ufrag 4Q5B network-id 6",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:755958482 1 tcp 1518083839 169.254.254.138 10414 typ host tcptype passive generation 0 ufrag 4Q5B network-id 6",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (2 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:3116332190 1 tcp 1518018303 10.155.31.100 10415 typ host tcptype passive generation 0 ufrag 4Q5B network-id 7",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:3116332190 1 tcp 1518018303 10.155.31.100 10415 typ host tcptype passive generation 0 ufrag 4Q5B network-id 7",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (1 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(audio_device_buffer.cc:178): SetRecordingSampleRate(16000)
+(audio_device_buffer.cc:198): SetRecordingChannels(1)
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:2680564958 1 tcp 1518275327 2001::2841:aa90:20ba:15e1:2df3:fddd 10416 typ host tcptype passive generation 0 ufrag 4Q5B network-id 3 network-cost 50",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(jseptransportcontroller.cc:307): Not adding candidate because the JsepTransport doesn't exist. Ignore it.
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:2680564958 1 tcp 1518275327 2001::2841:aa90:20ba:15e1:2df3:fddd 10416 typ host tcptype passive generation 0 ufrag 4Q5B network-id 3 network-cost 50",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (1 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:2802908053 1 tcp 1518214911 192.168.59.3 10417 typ host tcptype passive generation 0 ufrag 4Q5B network-id 4",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(jseptransportcontroller.cc:307): Not adding candidate because the JsepTransport doesn't exist. Ignore it.
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:2802908053 1 tcp 1518214911 192.168.59.3 10417 typ host tcptype passive generation 0 ufrag 4Q5B network-id 4",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (1 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:3401144682 1 tcp 1518149375 192.168.99.1 10418 typ host tcptype passive generation 0 ufrag 4Q5B network-id 5",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(jseptransportcontroller.cc:307): Not adding candidate because the JsepTransport doesn't exist. Ignore it.
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:3401144682 1 tcp 1518149375 192.168.99.1 10418 typ host tcptype passive generation 0 ufrag 4Q5B network-id 5",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (0 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:755958482 1 tcp 1518083839 169.254.254.138 10420 typ host tcptype passive generation 0 ufrag 4Q5B network-id 6",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(jseptransportcontroller.cc:307): Not adding candidate because the JsepTransport doesn't exist. Ignore it.
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:755958482 1 tcp 1518083839 169.254.254.138 10420 typ host tcptype passive generation 0 ufrag 4Q5B network-id 6",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (2 ms)
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:231): OnMessageFromPeer 1 :{
+   "candidate" : "candidate:3116332190 1 tcp 1518018303 10.155.31.100 10421 typ host tcptype passive generation 0 ufrag 4Q5B network-id 7",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(jseptransportcontroller.cc:307): Not adding candidate because the JsepTransport doesn't exist. Ignore it.
+(conductor.cc:327):  Received candidate :{
+   "candidate" : "candidate:3116332190 1 tcp 1518018303 10.155.31.100 10421 typ host tcptype passive generation 0 ufrag 4Q5B network-id 7",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(win32socketserver.cc:599): WSAAsync:connect (3 ms)
+(port.cc:1744): Conn[7435f28:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--W|-|0|0|9114475305677635071|-]: Sent STUN ping, id=4b636c744434654d76583563, use_candidate=0, nomination=0
+(audio_device_impl.cc:768): output: 0
+(audio_device_impl.cc:843): Recording
+(audio_device_impl.cc:762): InitRecording
+(audio_device_impl.cc:781): RecordingIsInitialized
+(audio_device_impl.cc:818): StartRecording
+(audio_device_impl.cc:843): Recording
+(audio_device_buffer.cc:115): StartRecording
+(audio_device_impl.cc:825): output: 0
+(channel.cc:808): Changing voice state, recv=1 send=1
+(messagequeue.cc:518): Message took 102ms to dispatch. Posted from: UpdateMediaSendRecvState@../../pc/channel.cc:788
+(video_send_stream.cc:128): VideoSendStream::UpdateActiveSimulcastLayers
+(video_send_stream_impl.cc:362): VideoSendStream::UpdateActiveSimulcastLayers
+(bitrate_allocator.cc:253): UpdateAllocationLimits : total_requested_min_bitrate: 30000bps, total_requested_padding_bitrate: 0bps, total_requested_max_bitrate: 1700000bps
+(channel.cc:939): Changing video state, send=1
+(video_stream_encoder.cc:1022): Video suspend state changed to: not suspended
+(rtp_video_stream_receiver.cc:340): Packet received on SSRC: 203134688 with payload type: 123, timestamp: 2600308717, sequence number: 24285, arrival time: 429787487
+(decoder_database.cc:140): Initializing decoder with payload type '96'.
+(audio_device_buffer.cc:236): Size of recording buffer: 160
+(agc_manager_direct.cc:383): [agc] Initial GetMicVolume()=0
+(agc_manager_direct.cc:388): [agc] Initial volume too low, raising to 12
+(port.cc:1744): Conn[7484f18:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--W|-|0|0|9114475305677503998|-]: Sent STUN ping, id=766c4a6e3852495463344f57, use_candidate=0, nomination=0
+(port.cc:1690): Conn[7484f18:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--I|-|0|0|9114475305677503998|-]: Received STUN ping response, id=766c4a6e3852495463344f57, code=0, rtt=1, pings_since_last_response=766c4a6e3852495463344f57 
+(rtp_sender_video.cc:548): Sent first RTP packet of the first video frame (pre-pacer)
+(rtp_sender_video.cc:552): Sent last RTP packet of the first video frame (pre-pacer)
+(port.cc:1390): Conn[74fbf70:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--W|-|0|0|9114193830700793342|-]: Connection pruned
+(port.cc:1390): Conn[82e2078:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->jgeBQ85l:1:2121998079:local:udp:10.155.31.100:58240|C--W|-|0|0|9113912355724082686|-]: Connection pruned
+(port.cc:1390): Conn[217478:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->7wEpKn3m:1:1685790463:stun:udp:210.12.2.34:58240|C--W|-|0|0|7240414910737956350|-]: Connection pruned
+(rtp_sender_audio.cc:244): First audio RTP packet sent to pacer
+(port.cc:1744): Conn[7457718:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--W|-|0|0|9114193830700924415|-]: Sent STUN ping, id=51657058464448663961386a, use_candidate=0, nomination=0
+(agc_manager_direct.cc:383): [agc] Initial GetMicVolume()=12
+(probe_bitrate_estimator.cc:149): Probing successful [cluster id: 0] [send: 21288 bytes / 24 ms = 887 kb/s] [receive: 21168 bytes / 23 ms = 920.348 kb/s]
+(probe_bitrate_estimator.cc:149): Probing successful [cluster id: 0] [send: 28264 bytes / 31 ms = 911.742 kb/s] [receive: 28264 bytes / 31 ms = 911.742 kb/s]
+(probe_controller.cc:196): Measured bitrate: 911741 Minimum to probe further: 1260000
+(video_render_frames.cc:71): Frame scheduled out of order, render_time=429787599, latest=429787612
+(port.cc:1744): Conn[7484760:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--W|-|0|0|9114193830700793343|-]: Sent STUN ping, id=42627758503253473636746f, use_candidate=0, nomination=0
+(probe_bitrate_estimator.cc:149): Probing successful [cluster id: 1] [send: 21168 bytes / 12 ms = 1764 kb/s] [receive: 21184 bytes / 12 ms = 1765.33 kb/s]
+(probe_bitrate_estimator.cc:149): Probing successful [cluster id: 1] [send: 28280 bytes / 16 ms = 1767.5 kb/s] [receive: 28296 bytes / 16 ms = 1768.5 kb/s]
+(probe_controller.cc:196): Measured bitrate: 1767500 Minimum to probe further: 1260000
+(bitrate_prober.cc:111): Probe cluster (bitrate:min bytes:min packets): (3535000:6628:5)
+(port.cc:1744): Conn[74f9eb0:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--W|-|0|0|9114193830700662270|-]: Sent STUN ping, id=6a7649584c4d4c3632395a30, use_candidate=0, nomination=0
+(port.cc:1690): Conn[74f9eb0:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--I|-|0|0|9114193830700662270|-]: Received STUN ping response, id=6a7649584c4d4c3632395a30, code=0, rtt=1, pings_since_last_response=6a7649584c4d4c3632395a30 
+(port.cc:1390): Conn[82e18c0:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->jgeBQ85l:1:2121998079:local:udp:10.155.31.100:58240|C--W|-|0|0|9113912355723951614|-]: Connection pruned
+(port.cc:1390): Conn[216cb0:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->7wEpKn3m:1:1685790463:stun:udp:210.12.2.34:58240|C--W|-|0|0|7240414910737825278|-]: Connection pruned
+(probe_bitrate_estimator.cc:149): Probing successful [cluster id: 2] [send: 38128 bytes / 11 ms = 3466.18 kb/s] [receive: 40408 bytes / 11 ms = 3673.45 kb/s]
+(probe_bitrate_estimator.cc:149): Probing successful [cluster id: 2] [send: 45240 bytes / 13 ms = 3480 kb/s] [receive: 47520 bytes / 13 ms = 3655.38 kb/s]
+(probe_bitrate_estimator.cc:149): Probing successful [cluster id: 2] [send: 52352 bytes / 16 ms = 3272 kb/s] [receive: 54632 bytes / 16 ms = 3414.5 kb/s]
+(probe_controller.cc:196): Measured bitrate: 3272000 Minimum to probe further: 2474500
+(bitrate_prober.cc:111): Probe cluster (bitrate:min bytes:min packets): (5000000:9375:5)
+(port.cc:1744): Conn[7456f60:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--W|-|0|0|9113912355724213759|-]: Sent STUN ping, id=387168356a776f502f514948, use_candidate=0, nomination=0
+(port.cc:1744): Conn[74818e8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--W|-|0|0|9113912355724082687|-]: Sent STUN ping, id=647031302f35596659462f75, use_candidate=0, nomination=0
+(port.cc:1744): Conn[74f96f8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--W|-|0|0|9113912355723951615|-]: Sent STUN ping, id=6a384f615a3555634739496d, use_candidate=0, nomination=0
+(probe_bitrate_estimator.cc:149): Probing successful [cluster id: 3] [send: 52808 bytes / 11 ms = 4800.73 kb/s] [receive: 54704 bytes / 11 ms = 4973.09 kb/s]
+(port.cc:1744): Conn[82e1108:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->jgeBQ85l:1:2121998079:local:udp:10.155.31.100:58240|C--W|-|0|0|9113912355723820542|-]: Sent STUN ping, id=34474654326633346a566945, use_candidate=0, nomination=0
+(port.cc:1690): Conn[82e1108:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->jgeBQ85l:1:2121998079:local:udp:10.155.31.100:58240|C--I|-|0|0|9113912355723820542|-]: Received STUN ping response, id=34474654326633346a566945, code=0, rtt=2, pings_since_last_response=34474654326633346a566945 
+(port.cc:1390): Conn[2164e8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->7wEpKn3m:1:1685790463:stun:udp:210.12.2.34:58240|C--W|-|0|0|7240414910737694206|-]: Connection pruned
+(probe_bitrate_estimator.cc:149): Probing successful [cluster id: 3] [send: 57656 bytes / 11 ms = 5241.45 kb/s] [receive: 59552 bytes / 11 ms = 5413.82 kb/s]
+(probe_bitrate_estimator.cc:149): Probing successful [cluster id: 3] [send: 66696 bytes / 13 ms = 5130.46 kb/s] [receive: 68592 bytes / 13 ms = 5276.31 kb/s]
+(probe_bitrate_estimator.cc:149): Probing successful [cluster id: 3] [send: 71544 bytes / 13 ms = 5503.38 kb/s] [receive: 73440 bytes / 13 ms = 5649.23 kb/s]
+(port.cc:1744): Conn[5997168:0:Net[Teredo:2001::2841:aa90:20ba:15e1:2df3:fddd/128:Unknown:id=3]:k8VxmDTv:1:0:local:udp:[2001::2841:aa90:20ba:15e1:2df3:fddd]:59874->mwInenc6:1:2122255103:local:udp:[2001::2841:aa90:20ba:15e1:2df3:fddd]:58236|C--W|-|0|0|9115016265398621694|-]: Sent STUN ping, id=517357663432564d366d5979, use_candidate=0, nomination=0
+(port.cc:1690): Conn[5997168:0:Net[Teredo:2001::2841:aa90:20ba:15e1:2df3:fddd/128:Unknown:id=3]:k8VxmDTv:1:0:local:udp:[2001::2841:aa90:20ba:15e1:2df3:fddd]:59874->mwInenc6:1:2122255103:local:udp:[2001::2841:aa90:20ba:15e1:2df3:fddd]:58236|C--I|-|0|0|9115016265398621694|-]: Received STUN ping response, id=517357663432564d366d5979, code=0, rtt=0, pings_since_last_response=517357663432564d366d5979 
+(port.cc:1744): Conn[7435f28:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9114475305677635071|-]: Sent STUN ping, id=466858503463777459707979, use_candidate=0, nomination=0
+(port.cc:1744): Conn[7457718:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9114193830700924415|-]: Sent STUN ping, id=314457744c6f72626751544c, use_candidate=0, nomination=0
+(port.cc:1744): Conn[7484760:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--I|-|0|0|9114193830700793343|-]: Sent STUN ping, id=63744844566b414a35615769, use_candidate=0, nomination=0
+(port.cc:1744): Conn[7456f60:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9113912355724213759|-]: Sent STUN ping, id=6774504637386b756172446f, use_candidate=0, nomination=0
+(port.cc:1744): Conn[74818e8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--I|-|0|0|9113912355724082687|-]: Sent STUN ping, id=436559584d49477467774b35, use_candidate=0, nomination=0
+(port.cc:1744): Conn[74f96f8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--I|-|0|0|9113912355723951615|-]: Sent STUN ping, id=63666c697a5075544f575969, use_candidate=0, nomination=0
+(port.cc:1744): Conn[7435f28:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9114475305677635071|-]: Sent STUN ping, id=457452662f7830733037686e, use_candidate=0, nomination=0
+(port.cc:1744): Conn[7457718:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9114193830700924415|-]: Sent STUN ping, id=4b4f6a4c4b3339443331304c, use_candidate=0, nomination=0
+(port.cc:1744): Conn[7484760:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--I|-|0|0|9114193830700793343|-]: Sent STUN ping, id=6a6b494b57626a4a45594934, use_candidate=0, nomination=0
+(port.cc:1744): Conn[7456f60:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9113912355724213759|-]: Sent STUN ping, id=432b43337336523465442b4f, use_candidate=0, nomination=0
+(remote_ntp_time_estimator.cc:75): RTP timestamp: 2600428057 in NTP clock: 3762569329550 estimated time in receiver clock: 429788740 converted to NTP clock: 3762569329548
+(port.cc:1744): Conn[74818e8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--I|-|0|0|9113912355724082687|-]: Sent STUN ping, id=657867684575517874574763, use_candidate=0, nomination=0
+(port.cc:1744): Conn[74f96f8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--I|-|0|0|9113912355723951615|-]: Sent STUN ping, id=5677766e6a6c2f7a45553633, use_candidate=0, nomination=0
+(port.cc:1744): Conn[7435f28:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9114475305677635071|-]: Sent STUN ping, id=6d75766761762b5a4e757178, use_candidate=0, nomination=0
+(port.cc:1744): Conn[7457718:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9114193830700924415|-]: Sent STUN ping, id=757935586c5878333641734b, use_candidate=0, nomination=0
+(quality_scaler.cc:203): Checking average QP 10 (10).
+(port.cc:1744): Conn[7484760:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--I|-|0|0|9114193830700793343|-]: Sent STUN ping, id=4d4135326d6c6c6b52703668, use_candidate=0, nomination=0
+(port.cc:1744): Conn[7456f60:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9113912355724213759|-]: Sent STUN ping, id=636555535230695445576956, use_candidate=0, nomination=0
+(port.cc:1744): Conn[74818e8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--I|-|0|0|9113912355724082687|-]: Sent STUN ping, id=6d385a6a56726a304b522b4c, use_candidate=0, nomination=0
+(port.cc:1744): Conn[74f96f8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--I|-|0|0|9113912355723951615|-]: Sent STUN ping, id=39566449764c635a62415677, use_candidate=0, nomination=0
+(remote_ntp_time_estimator.cc:75): RTP timestamp: 4210406548 in NTP clock: 3762569335258 estimated time in receiver clock: 429794450 converted to NTP clock: 3762569335258
+(quality_scaler.cc:203): Checking average QP 2 (2).
+(port.cc:1744): Conn[7435f28:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9114475305677635071|-]: Sent STUN ping, id=477068757553694270677052, use_candidate=0, nomination=0
+(port.cc:1744): Conn[7457718:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9114193830700924415|-]: Sent STUN ping, id=4c716543334b6d4d774f6975, use_candidate=0, nomination=0
+(port.cc:1791): Connection deleted with number of pings sent: 0
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 74886d0 (20 remaining)
+(port.cc:1791): Connection deleted with number of pings sent: 0
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 74fc728 (19 remaining)
+(port.cc:1791): Connection deleted with number of pings sent: 0
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 74fbf70 (18 remaining)
+(port.cc:1791): Connection deleted with number of pings sent: 0
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 82e2830 (17 remaining)
+(port.cc:1791): Connection deleted with number of pings sent: 0
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 82e2078 (16 remaining)
+(port.cc:1791): Connection deleted with number of pings sent: 0
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 82e18c0 (15 remaining)
+(port.cc:1791): Connection deleted with number of pings sent: 0
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 217c40 (14 remaining)
+(port.cc:1791): Connection deleted with number of pings sent: 0
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 217478 (13 remaining)
+(port.cc:1791): Connection deleted with number of pings sent: 0
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 216cb0 (12 remaining)
+(port.cc:1791): Connection deleted with number of pings sent: 0
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 2164e8 (11 remaining)
+(rtp_video_stream_receiver.cc:340): Packet received on SSRC: 203134688 with payload type: 123, timestamp: 2601216547, sequence number: 25365, arrival time: 429797552
+(port.cc:1744): Conn[7484760:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--I|-|0|0|9114193830700793343|-]: Sent STUN ping, id=75564761744652764432777a, use_candidate=0, nomination=0
+(remote_ntp_time_estimator.cc:75): RTP timestamp: 2601324547 in NTP clock: 3762569339511 estimated time in receiver clock: 429798703 converted to NTP clock: 3762569339511
+(port.cc:1744): Conn[7456f60:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9113912355724213759|-]: Sent STUN ping, id=69574c6553564d4944704f4e, use_candidate=0, nomination=0
+(quality_scaler.cc:203): Checking average QP 2 (2).
+(port.cc:1744): Conn[74818e8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--I|-|0|0|9113912355724082687|-]: Sent STUN ping, id=72466c354e74693174554d55, use_candidate=0, nomination=0
+(bitrate_allocator.cc:111): Current BWE 5503385
+(port.cc:1744): Conn[74f96f8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--I|-|0|0|9113912355723951615|-]: Sent STUN ping, id=6f6b6e4a626c7245776c7942, use_candidate=0, nomination=0
+(port.cc:1478): Conn[7435f28:0:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]:Hoo0rTTz:1:0:local:udp:192.168.99.1:59876->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9114475305677635071|-]: Timed out after 15016 ms without a response, rtt=6000
+(port.cc:1791): Connection deleted with number of pings sent: 5
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 7435f28 (10 remaining)
+(port.cc:1478): Conn[7457718:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9114193830700924415|-]: Timed out after 15168 ms without a response, rtt=6000
+(port.cc:1478): Conn[7484760:0:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]:D9IDn5w3:1:0:local:udp:169.254.254.138:59877->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--I|-|0|0|9114193830700793343|-]: Timed out after 15120 ms without a response, rtt=6000
+(port.cc:1478): Conn[7456f60:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->lx8EAftK:1:2122194687:local:udp:192.168.59.3:58237|C--I|-|0|0|9113912355724213759|-]: Timed out after 15024 ms without a response, rtt=6000
+(port.cc:1791): Connection deleted with number of pings sent: 5
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 7457718 (9 remaining)
+(port.cc:1791): Connection deleted with number of pings sent: 5
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 7484760 (8 remaining)
+(port.cc:1791): Connection deleted with number of pings sent: 5
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 7456f60 (7 remaining)
+(port.cc:1478): Conn[74818e8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->8wJypYqq:1:2122129151:local:udp:192.168.99.1:58238|C--I|-|0|0|9113912355724082687|-]: Timed out after 15226 ms without a response, rtt=6000
+(port.cc:1478): Conn[74f96f8:0:Net[Realtek:10.155.31.100/32:Ethernet:id=7]:ZMHvE2+3:1:0:local:udp:10.155.31.100:59878->ZGq0v7SU:1:2122063615:local:udp:169.254.254.138:58239|C--I|-|0|0|9113912355723951615|-]: Timed out after 15178 ms without a response, rtt=6000
+(p2ptransportchannel.cc:1873): Channel[0|1|RW]: Transport channel state changed from 1 to 2
+(jseptransportcontroller.cc:1251): 0 Transport 1 state changed. Check if state is complete.
+(port.cc:1791): Connection deleted with number of pings sent: 5
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 74818e8 (6 remaining)
+(port.cc:1791): Connection deleted with number of pings sent: 5
+(p2ptransportchannel.cc:2283): Channel[0|1|RW]: Removed connection 74f96f8 (5 remaining)
+(quality_scaler.cc:203): Checking average QP 2 (2).
+(remote_ntp_time_estimator.cc:75): RTP timestamp: 4210885769 in NTP clock: 3762569345242 estimated time in receiver clock: 429804436 converted to NTP clock: 3762569345244
+(bitrate_allocator.cc:111): Current BWE 5503385
+(audio_device_buffer.cc:411): [REC : 10000msec, 16kHz] callbacks: 1000, samples: 160000, rate: 16000, rate diff: 0%, level: 309
+(audio_device_buffer.cc:429): [PLAY: 10000msec, 48kHz] callbacks: 1000, samples: 480000, rate: 48000, rate diff: 0%, level: 2421
+(quality_scaler.cc:203): Checking average QP 2 (2).
+(rtp_video_stream_receiver.cc:340): Packet received on SSRC: 203134688 with payload type: 123, timestamp: 2602120327, sequence number: 26397, arrival time: 429807569
+(remote_ntp_time_estimator.cc:75): RTP timestamp: 2602221577 in NTP clock: 3762569349478 estimated time in receiver clock: 429808670 converted to NTP clock: 3762569349478
+(receive_statistics_proxy.cc:521): Bad call (any) start: 429810348
+(receive_statistics_proxy.cc:539): Bad call (variance) start: 429810348
+(quality_scaler.cc:203): Checking average QP 2 (2).
+(openssladapter.cc:815): SSL3 alert read:warning:close notify
+(opensslstreamadapter.cc:917): Cleanup
+(openssladapter.cc:815): SSL3 alert write:warning:close notify
+(dtlstransport.cc:645): DtlsTransport[0|1|_W]: DTLS transport closed
+(jseptransportcontroller.cc:1188):  Transport 0 writability changed to 0.
+(channel.cc:597): Channel not writable (0)
+(channel.cc:597): Channel not writable (1)
+(srtptransport.cc:358): The params in SRTP transport are reset.
+(channel.cc:808): Changing voice state, recv=1 send=1
+(video_send_stream.cc:128): VideoSendStream::UpdateActiveSimulcastLayers
+(video_send_stream_impl.cc:362): VideoSendStream::UpdateActiveSimulcastLayers
+(channel.cc:939): Changing video state, send=1
+(peerconnection.cc:3630): Changing IceConnectionState 2 => 5
+(rtp_rtcp_impl.cc:192): Process: Timeout: No RTCP RR received.
+(rtp_rtcp_impl.cc:194): Process: Timeout: No increase in RTCP RR extended highest sequence number.
+(asyncudpsocket.cc:118): AsyncUDPSocket[[2001::2841:aa90:20ba:15e1:2df3:fddd]:59874] receive failed with error 10054
+(remote_ntp_time_estimator.cc:75): RTP timestamp: 4211366972 in NTP clock: 3762569355268 estimated time in receiver clock: 429814460 converted to NTP clock: 3762569355268
+(asyncudpsocket.cc:118): AsyncUDPSocket[[2001::2841:aa90:20ba:15e1:2df3:fddd]:59874] receive failed with error 10054
+(video_receive_stream.cc:500): No decodable frame in 3000 ms, requesting keyframe.
+(asyncudpsocket.cc:118): AsyncUDPSocket[[2001::2841:aa90:20ba:15e1:2df3:fddd]:59874] receive failed with error 10054
+(asyncudpsocket.cc:118): AsyncUDPSocket[[2001::2841:aa90:20ba:15e1:2df3:fddd]:59874] receive failed with error 10054
+(asyncudpsocket.cc:118): AsyncUDPSocket[[2001::2841:aa90:20ba:15e1:2df3:fddd]:59874] receive failed with error 10054
+(quality_scaler.cc:203): Checking average QP 2 (2).
+(asyncudpsocket.cc:118): AsyncUDPSocket[[2001::2841:aa90:20ba:15e1:2df3:fddd]:59874] receive failed with error 10054
+(asyncudpsocket.cc:118): AsyncUDPSocket[[2001::2841:aa90:20ba:15e1:2df3:fddd]:59874] receive failed with error 10054
+(asyncudpsocket.cc:118): AsyncUDPSocket[10.155.31.100:59878] receive failed with error 10054
+(peer_connection_client.cc:375): OnHangingGetRead
+(peer_connection_client.cc:298): Headers received
+(peer_connection_client.cc:474): OnClose
+(conductor.cc:219): OnPeerDisconnected
+(conductor.cc:221): Our peer disconnected
+(win32socketserver.cc:599): WSAAsync:connect (1 ms)
+(conductor.cc:456): PEER_CONNECTION_CLOSED
+(audio_device_impl.cc:832): StopRecording
+线程 0x1414 已退出，返回值为 0 (0x0)。
+(asyncudpsocket.cc:118): AsyncUDPSocket[[2001::2841:aa90:20ba:15e1:2df3:fddd]:59874] receive failed with error 10054
+(audio_device_buffer.cc:151): StopRecording
+(audio_device_buffer.cc:171): HISTOGRAM(WebRTC.Audio.RecordedOnlyZeros): 0
+(audio_device_buffer.cc:174): total recording time: 28502
+(audio_device_impl.cc:836): output: 0
+(webrtcvoiceengine.cc:1976): SetOutputVolume() to 0 for recv stream with ssrc 1313300658
+(webrtcvideoengine.cc:1020): SetVideoSend (ssrc= 3615028400, options: nullptr, source = nullptr)
+(quality_scaler.cc:78): Stopping QP Check task.
+(webrtcvideoengine.cc:1293): SetSink: ssrc:203134688 nullptr
+(channel.cc:564): Channel disabled
+(video_send_stream.cc:155): VideoSendStream::Stop
+(channel.cc:939): Changing video state, send=0
+(video_send_stream_impl.cc:408): VideoSendStream::Stop
+(rtp_rtcp_impl.cc:380): Failed to send RTCP BYE
+(bitrate_allocator.cc:253): UpdateAllocationLimits : total_requested_min_bitrate: 0bps, total_requested_padding_bitrate: 0bps, total_requested_max_bitrate: 0bps
+(video_stream_encoder.cc:1022): Video suspend state changed to: suspended
+(video_send_stream.cc:155): VideoSendStream::Stop
+(video_send_stream_impl.cc:408): VideoSendStream::Stop
+(video_send_stream_impl.cc:408): VideoSendStream::Stop
+(video_send_stream_impl.cc:339): ~VideoSendStreamInternal: {encoder_settings: { experiment_cpu_load_estimator: off}}, rtp: {ssrcs: [3615028400], rtcp_mode: RtcpMode::kReducedSize, max_packet_size: 1200, extmap-allow-mixed: false, extensions: [{uri: http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07, id: 10}, {uri: http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01, id: 5}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/playout-delay, id: 6}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-content-type, id: 7}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-timing, id: 8}, {uri: urn:3gpp:video-orientation, id: 4}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}], nack: {rtp_history_ms: 1000}, ulpfec: {ulpfec_payload_type: 122, red_payload_type: 123, red_rtx_payload_type: 119}, payload_name: VP8, payload_type: 96, flexfec: {payload_type: -1, ssrc: 0, protected_media_ssrcs: []}, rtx: {ssrcs: [970101], payload_type: 97}, c_name: AxHNkxGt/tHOtvv8}, rtcp_report_interval_ms: 1000, pre_encode_callback: nullptr, render_delay_ms: 0, target_delay_ms: 0, suspend_below_min_bitrate: off}
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=up
+(send_side_congestion_controller.cc:334): SignalNetworkState Up
+线程 0x32fc 已退出，返回值为 0 (0x0)。
+(send_statistics_proxy.cc:654): WebRTC.Video.InputWidthInPixels 640
+WebRTC.Video.InputHeightInPixels 480
+WebRTC.Video.InputFramesPerSecond periodic_samples:14, {min:25, avg:28, max:30}
+WebRTC.Video.SentWidthInPixels 640
+WebRTC.Video.SentHeightInPixels 480
+WebRTC.Video.SentFramesPerSecond periodic_samples:14, {min:23, avg:27, max:30}
+WebRTC.Video.SentToInputFpsRatioPercent 96
+WebRTC.Video.EncodeTimeInMs 11
+WebRTC.Video.KeyFramesSentInPermille 3
+WebRTC.Video.QualityLimitedResolutionInPercent 0
+WebRTC.Video.SentPacketsLostInPercent 0
+WebRTC.Video.NumberOfPauseEvents 0
+WebRTC.Video.PausedTimeInPercent 0
+WebRTC.Video.BitrateSentInBps periodic_samples:14, {min:238768, avg:291256, max:541496}
+WebRTC.Video.MediaBitrateSentInBps periodic_samples:14, {min:229504, avg:275336, max:458648}
+WebRTC.Video.PaddingBitrateSentInBps periodic_samples:14, {min:0, avg:64, max:896}
+WebRTC.Video.RetransmittedBitrateSentInBps periodic_samples:14, {min:0, avg:0, max:0}
+WebRTC.Video.RtxBitrateSentInBps periodic_samples:14, {min:0, avg:4968, max:69528}
+WebRTC.Video.FecBitrateSentInBps periodic_samples:14, {min:0, avg:0, max:0}
+Frames encoded 766
+WebRTC.Video.DroppedFrames.Capturer 0
+WebRTC.Video.DroppedFrames.EncoderQueue 13
+WebRTC.Video.DroppedFrames.Encoder 2
+WebRTC.Video.DroppedFrames.Ratelimiter 0
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=up
+(send_side_congestion_controller.cc:334): SignalNetworkState Up
+(video_receive_stream.cc:198): ~VideoReceiveStream: {decoders: [{payload_type: 96, payload_name: VP8, codec_params: {}}, {payload_type: 98, payload_name: VP9, codec_params: {profile-id: 0}}, {payload_type: 100, payload_name: VP9, codec_params: {profile-id: 2}}, {payload_type: 127, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42001f}}, {payload_type: 125, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 0profile-level-id: 42001f}}, {payload_type: 124, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 1profile-level-id: 42e01f}}, {payload_type: 108, payload_name: H264, codec_params: {level-asymmetry-allowed: 1packetization-mode: 0profile-level-id: 42e01f}}], rtp: {remote_ssrc: 203134688, local_ssrc: 3615028400, rtcp_mode: RtcpMode::kReducedSize, rtcp_xr: {receiver_reference_time_report: off}, remb: on, transport_cc: on, nack: {rtp_history_ms: 1000}, ulpfec_payload_type: 122, red_type: 123, rtx_ssrc: 556266706, rtx_payload_types: {97 (pt) -> 96 (apt), 99 (pt) -> 98 (apt), 101 (pt) -> 100 (apt), 107 (pt) -> 124 (apt), 109 (pt) -> 108 (apt), 119 (pt) -> 123 (apt), 120 (pt) -> 125 (apt), 121 (pt) -> 127 (apt), }, extensions: [{uri: http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07, id: 10}, {uri: http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01, id: 5}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time, id: 3}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/playout-delay, id: 6}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-content-type, id: 7}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-timing, id: 8}, {uri: urn:3gpp:video-orientation, id: 4}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}, {uri: urn:ietf:params:rtp-hdrext:toffset, id: 2}]}, renderer: (renderer), render_delay_ms: 10, sync_group: stream_id, target_delay_ms: 0}
+线程 0x3190 已退出，返回值为 0 (0x0)。
+线程 0x1198 已退出，返回值为 0 (0x0)。
+(video_render_frames.cc:47): WebRTC.Video.DroppedFrames.RenderQueue 1
+(receive_statistics_proxy.cc:487): WebRTC.Video.ReceiveStreamLifetimeInSeconds 28
+Frames decoded 641
+WebRTC.Video.DroppedFrames.Receiver 0
+WebRTC.Video.ReceivedPacketsLostInPercent 0
+WebRTC.Video.AVSyncOffsetInMs 28
+WebRTC.Video.KeyFramesReceivedInPermille 2
+WebRTC.Video.Decoded.Vp8.Qp 3
+WebRTC.Video.DecodeTimeInMs 1
+WebRTC.Video.JitterBufferDelayInMs 24
+WebRTC.Video.TargetDelayInMs 37
+WebRTC.Video.CurrentDelayInMs 36
+WebRTC.Video.EndToEndDelayInMs 91
+WebRTC.Video.EndToEndDelayMaxInMs 140
+WebRTC.Video.InterframeDelayInMs 37
+WebRTC.Video.InterframeDelayMaxInMs 109
+WebRTC.Video.InterframeDelay95PercentileInMs 65
+WebRTC.Video.ReceivedWidthInPixels 640
+WebRTC.Video.ReceivedHeightInPixels 480
+WebRTC.Video.EndToEndDelayInMs.S0 91
+WebRTC.Video.EndToEndDelayMaxInMs.S0 140
+WebRTC.Video.InterframeDelayInMs.S0 37
+WebRTC.Video.InterframeDelayMaxInMs.S0 109
+WebRTC.Video.InterframeDelay95PercentileInMs.S0 65
+WebRTC.Video.ReceivedWidthInPixels.S0 640
+WebRTC.Video.ReceivedHeightInPixels.S0 480
+WebRTC.Video.MediaBitrateReceivedInKbps.S0 745
+WebRTC.Video.KeyFramesReceivedInPermille.S0 2
+WebRTC.Video.Decoded.Vp8.Qp.S0 3
+WebRTC.Video.MediaBitrateReceivedInKbps 647
+
+(video_quality_observer.cc:121): WebRTC.Video.MeanTimeBetweenFreezesMs 24144
+WebRTC.Video.TimeInHdPercentage 0
+WebRTC.Video.TimeInBlockyVideoPercentage 0
+WebRTC.Video.NumberResolutionDownswitchesPerMinute 0
+WebRTC.Video.NumberFreezesPerMinute 0
+
+(channel.cc:133): Destroyed channel: 1
+(channel.cc:564): Channel disabled
+(audio_device_impl.cc:801): StopPlayout
+线程 0x1c0c 已退出，返回值为 0 (0x0)。
+(asyncudpsocket.cc:118): AsyncUDPSocket[192.168.99.1:59876] receive failed with error 10054
+(audio_device_buffer.cc:137): StopPlayout
+(audio_device_buffer.cc:143): total playout time: 28820
+(audio_device_impl.cc:805): output: 0
+(channel.cc:808): Changing voice state, recv=0 send=0
+(webrtcvoiceengine.cc:1839): RemoveSendStream: 371311760
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=up
+(send_side_congestion_controller.cc:334): SignalNetworkState Up
+(audio_send_stream.cc:170): ~AudioSendStream: 371311760
+(webrtcvoiceengine.cc:1914): RemoveRecvStream: 1313300658
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(audio_receive_stream.cc:134): ~AudioReceiveStream: 1313300658
+(paced_sender.cc:90): PacedSender paused.
+(control_handler.cc:150): Bitrate estimate state changed, BWE: 0 bps.
+(bitrate_allocator.cc:111): Current BWE 0
+(channel.cc:133): Destroyed channel: 0
+(peerconnection.cc:857): Session: 3022010276447495059 is destroyed.
+(opensslstreamadapter.cc:917): Cleanup
+线程 0xeb4 已退出，返回值为 0 (0x0)。
+(call.cc:552): WebRTC.Call.EstimatedSendBitrateInKbps, periodic_samples:14, {min:3251, avg:5342, max:5503}
+(call.cc:560): WebRTC.Call.PacerBitrateInKbps, periodic_samples:14, {min:3251, avg:5342, max:5503}
+(call.cc:582): WebRTC.Call.VideoBitrateReceivedInBps, periodic_samples:12, {min:664600, avg:775008, max:875840}
+(call.cc:590): WebRTC.Call.AudioBitrateReceivedInBps, periodic_samples:12, {min:35992, avg:37600, max:39936}
+(call.cc:598): WebRTC.Call.RtcpBitrateReceivedInBps, periodic_samples:12, {min:8992, avg:10080, max:11712}
+(call.cc:606): WebRTC.Call.BitrateReceivedInBps, periodic_samples:12, {min:710168, avg:822568, max:923456}
+线程 0x2050 已退出，返回值为 0 (0x0)。
+(paced_sender.cc:385): ProcessThreadAttached 0x0
+(paced_sender.cc:385): ProcessThreadAttached 0x0
+线程 0x2b5c 已退出，返回值为 0 (0x0)。
+(send_delay_stats.cc:49): WebRTC.Video.SendDelayInMs, periodic_samples:12, {min:0, avg:0, max:1}
+(rtc_event_log_impl.cc:202): Stopping WebRTC event log.
+(rtc_event_log_impl.cc:219): WebRTC event log successfully stopped.
+线程 0x3594 已退出，返回值为 0 (0x0)。
+(dtmfsender.cc:217): The Dtmf provider is deleted. Clear the sending queue.
+(video_capture_ds.cc:173): CaptureStarted 2
+(webrtcvideocapturer.cc:304): Camera '0' stopped after capturing 803 frames and dropping 0%
+线程 0x614 已退出，返回值为 0 (0x0)。
+线程 0x22a0 已退出，返回值为 0 (0x0)。
+线程 0x2948 已退出，返回值为 0 (0x0)。
+线程 0x221c 已退出，返回值为 0 (0x0)。
+(webrtcvideoengine.cc:464): WebRtcVideoEngine::~WebRtcVideoEngine
+(webrtcvoiceengine.cc:208): WebRtcVoiceEngine::~WebRtcVoiceEngine
+(audio_device_impl.cc:801): StopPlayout
+(audio_device_impl.cc:805): output: 0
+(audio_device_impl.cc:832): StopRecording
+(audio_device_impl.cc:836): output: 0
+(audio_device_impl.cc:850): RegisterAudioCallback
+(audio_device_buffer.cc:79): RegisterAudioCallback
+(audio_device_impl.cc:351): Terminate
+线程 0x1274 已退出，返回值为 0 (0x0)。
+(audio_device_impl.cc:320): ~AudioDeviceModuleImpl
+(audio_device_core_win.cc:533): ~AudioDeviceWindowsCore destroyed
+(audio_device_core_win.cc:580): AudioDeviceWindowsCore::~AudioDeviceWindowsCore() the Avrt DLL module is now unloaded
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\Kswdmcap.ax”
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\mfc42.dll”
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\odbc32.dll”
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\odbcint.dll”
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\quartz.dll”
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ksproxy.ax”
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\d3d9.dll”
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\d3d8thk.dll”
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\version.dll”
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ksuser.dll”
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\devenum.dll”
+“peerconnection_client.exe”(Win32): 已卸载“C:\Windows\SysWOW64\MFWMAAEC.DLL”
+(audio_device_buffer.cc:73): AudioDeviceBuffer::~dtor
+线程 0x3218 已退出，返回值为 0 (0x0)。
+线程 0x32e0 已退出，返回值为 0 (0x0)。
+线程 0x3960 已退出，返回值为 0 (0x0)。
+线程 0x2bb4 已退出，返回值为 0 (0x0)。

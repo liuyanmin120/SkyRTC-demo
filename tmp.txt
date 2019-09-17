@@ -1,0 +1,1271 @@
+“clientlib.exe”(Win32): 已加载“Z:\weProject\build\Run\Debug\clientlib.exe”。已加载符号。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“D:\Qt\Qt5.8.0\5.8\msvc2015\bin\Qt5WebSocketsd.dll”。已加载符号。
+“clientlib.exe”(Win32): 已加载“D:\Qt\Qt5.8.0\5.8\msvc2015\bin\Qt5Networkd.dll”。已加载符号。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\ws2_32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptbase.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\nsi.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“D:\Qt\Qt5.8.0\5.8\msvc2015\bin\Qt5Cored.dll”。已加载符号。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\user32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\lpk.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\usp10.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\shell32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\shlwapi.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\ole32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\mpr.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmm.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-core-localization-l1-2-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-core-processthreads-l1-1-1.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-core-file-l1-2-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-core-timezone-l1-1-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-core-file-l2-1-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\dnsapi.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\IPHLPAPI.DLL”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\winnsi.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\crypt32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\msasn1.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“Z:\weProject\build\Run\Debug\libcurl.dll”。模块已生成，不包含符号。
+“clientlib.exe”(Win32): 已加载“Z:\weProject\build\Run\Debug\libcrypto-1_1.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-crt-runtime-l1-1-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbase.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-crt-heap-l1-1-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-crt-string-l1-1-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-crt-stdio-l1-1-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-crt-convert-l1-1-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-crt-time-l1-1-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-crt-utility-l1-1-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-crt-environment-l1-1-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-crt-filesystem-l1-1-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\api-ms-win-crt-math-l1-1-0.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“Z:\weProject\build\Run\Debug\libssl-1_1.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\normaliz.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\Wldap32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“D:\Qt\Qt5.8.0\5.8\msvc2015\bin\Qt5Widgetsd.dll”。已加载符号。
+“clientlib.exe”(Win32): 已加载“D:\Qt\Qt5.8.0\5.8\msvc2015\bin\Qt5Guid.dll”。已加载符号。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\uxtheme.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\dwmapi.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“Z:\weProject\build\Run\Debug\peerconnection_webrtclib.dll”。已加载符号。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\msdmo.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleaut32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\secur32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\imm32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\msctf.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已卸载“C:\Windows\SysWOW64\version.dll”
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\shell32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已卸载“C:\Windows\SysWOW64\shell32.dll”
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\profapi.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“D:\Qt\Qt5.8.0\5.8\msvc2015\plugins\platforms\qwindowsd.dll”。已加载符号。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\user32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已卸载“C:\Windows\SysWOW64\user32.dll”
+QWindowsContext: OleInitialize() failed:  "COM error 0x80010106 RPC_E_CHANGED_MODE (Unknown error 0x080010106)"
+“clientlib.exe”(Win32): 已加载“C:\OpenSSL-Win32\bin\ssleay32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\OpenSSL-Win32\bin\libeay32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57\msvcr90.dll”。无法查找或打开 PDB 文件。
+qt.network.ssl: QSslSocket: cannot resolve SSL_set_alpn_protos
+qt.network.ssl: QSslSocket: cannot resolve SSL_CTX_set_alpn_select_cb
+qt.network.ssl: QSslSocket: cannot resolve SSL_get0_alpn_selected
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\netapi32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\netutils.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\srvcli.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\wkscli.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已卸载“C:\Windows\SysWOW64\netapi32.dll”
+“clientlib.exe”(Win32): 已卸载“C:\Windows\SysWOW64\wkscli.dll”
+“clientlib.exe”(Win32): 已卸载“C:\Windows\SysWOW64\srvcli.dll”
+“clientlib.exe”(Win32): 已卸载“C:\Windows\SysWOW64\netutils.dll”
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptsp.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\rsaenh.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\RpcRtRemote.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\ole32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ole32.dll”
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\winhttp.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\webio.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\dhcpcsvc6.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\dhcpcsvc.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已卸载“C:\Windows\SysWOW64\advapi32.dll”
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已卸载“C:\Windows\SysWOW64\advapi32.dll”
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\nlaapi.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\NapiNSP.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\pnrpnsp.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\mswsock.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\winrnr.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已卸载“C:\Windows\SysWOW64\version.dll”
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\WSHTCPIP.DLL”。无法查找或打开 PDB 文件。
+2019-04-15 16:23:43 WsClient::onConnected Info tcp connected
+2019-04-15 16:23:43 WsClient::sendMsg Info {"data":{"room":110},"eventName":"__join"}
+2019-04-15 16:23:43 CVideoRoom::OnNetConnect Info video ws connect 1
+2019-04-15 16:23:43 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_peers","data":{"connections":["1c55d485-e229-4500-9c24-65b0f199c948"],"you":"ad61c093-9d6b-44cb-930f-aa98a126d190"}}
+2019-04-15 16:23:43 CVideoRoom::OnNetMsg Info myid: ad61c093-9d6b-44cb-930f-aa98a126d190
+QWidget::paintEngine: Should no longer be called
+(audio_processing_impl.cc:394): Capture analyzer activated: 0
+Capture post processor activated: 0
+Render pre processor activated: 0
+(webrtcvideoengine.cc:460): WebRtcVideoEngine::WebRtcVideoEngine()
+(webrtcvoiceengine.cc:199): WebRtcVoiceEngine::WebRtcVoiceEngine
+(webrtcvoiceengine.cc:222): WebRtcVoiceEngine::Init
+(webrtcvoiceengine.cc:229): Supported send codecs in order of preference:
+(webrtcvoiceengine.cc:232): opus/48000/2 { minptime=10 useinbandfec=1 } (111)
+(webrtcvoiceengine.cc:232): ISAC/16000/1 (103)
+(webrtcvoiceengine.cc:232): ISAC/32000/1 (104)
+(webrtcvoiceengine.cc:232): G722/8000/1 (9)
+(webrtcvoiceengine.cc:232): ILBC/8000/1 (102)
+(webrtcvoiceengine.cc:232): PCMU/8000/1 (0)
+(webrtcvoiceengine.cc:232): PCMA/8000/1 (8)
+(webrtcvoiceengine.cc:232): CN/32000/1 (106)
+(webrtcvoiceengine.cc:232): CN/16000/1 (105)
+(webrtcvoiceengine.cc:232): CN/8000/1 (13)
+(webrtcvoiceengine.cc:232): telephone-event/48000/1 (110)
+(webrtcvoiceengine.cc:232): telephone-event/32000/1 (112)
+(webrtcvoiceengine.cc:232): telephone-event/16000/1 (113)
+(webrtcvoiceengine.cc:232): telephone-event/8000/1 (126)
+(webrtcvoiceengine.cc:235): Supported recv codecs in order of preference:
+(webrtcvoiceengine.cc:238): opus/48000/2 { minptime=10 useinbandfec=1 } (111)
+(webrtcvoiceengine.cc:238): ISAC/16000/1 (103)
+(webrtcvoiceengine.cc:238): ISAC/32000/1 (104)
+(webrtcvoiceengine.cc:238): G722/8000/1 (9)
+(webrtcvoiceengine.cc:238): ILBC/8000/1 (102)
+(webrtcvoiceengine.cc:238): PCMU/8000/1 (0)
+(webrtcvoiceengine.cc:238): PCMA/8000/1 (8)
+(webrtcvoiceengine.cc:238): CN/32000/1 (106)
+(webrtcvoiceengine.cc:238): CN/16000/1 (105)
+(webrtcvoiceengine.cc:238): CN/8000/1 (13)
+(webrtcvoiceengine.cc:238): telephone-event/48000/1 (110)
+(webrtcvoiceengine.cc:238): telephone-event/32000/1 (112)
+(webrtcvoiceengine.cc:238): telephone-event/16000/1 (113)
+(webrtcvoiceengine.cc:238): telephone-event/8000/1 (126)
+(audio_device_impl.cc:75): Create
+(audio_device_impl.cc:82): CreateForTest
+(audio_device_buffer.cc:61): AudioDeviceBuffer::ctor
+(audio_device_impl.cc:125): AudioDeviceModuleImpl
+(audio_device_impl.cc:129): CheckPlatform
+(audio_device_impl.cc:134): current platform is Win32
+(audio_device_impl.cc:159): CreatePlatformSpecificObjects
+(audio_device_impl.cc:938): PlatformAudioLayer
+(audio_device_impl.cc:181): Attempting to use the Windows Core Audio APIs...
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\clbcatq.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\MMDevAPI.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\propsys.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\setupapi.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\devobj.dll”。无法查找或打开 PDB 文件。
+(audio_device_core_win.cc:436): AudioDeviceWindowsCore created
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\avrt.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\MFWMAAEC.DLL”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\mfplat.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\AudioSes.dll”。无法查找或打开 PDB 文件。
+(audio_device_core_win.cc:2239): nChannels=2, nSamplesPerSec=48000 is not supported. Closest match: nChannels=2, nSamplesPerSec=44100
+(audio_device_core_win.cc:2239): nChannels=1, nSamplesPerSec=48000 is not supported. Closest match: nChannels=2, nSamplesPerSec=44100
+(audio_device_core_win.cc:2239): nChannels=4, nSamplesPerSec=48000 is not supported. Closest match: nChannels=2, nSamplesPerSec=44100
+(audio_device_core_win.cc:533): ~AudioDeviceWindowsCore destroyed
+(audio_device_core_win.cc:580): AudioDeviceWindowsCore::~AudioDeviceWindowsCore() the Avrt DLL module is now unloaded
+(audio_device_core_win.cc:436): AudioDeviceWindowsCore created
+(audio_device_impl.cc:184): Windows Core Audio APIs will be utilized
+(audio_device_impl.cc:314): AttachAudioBuffer
+(audio_device_buffer.cc:178): SetRecordingSampleRate(0)
+(audio_device_buffer.cc:184): SetPlayoutSampleRate(0)
+(audio_device_buffer.cc:198): SetRecordingChannels(0)
+(audio_device_buffer.cc:204): SetPlayoutChannels(0)
+(audio_device_impl.cc:334): Init
+(audio_device_impl.cc:681): SetPlayoutDevice
+(audio_device_impl.cc:367): InitSpeaker
+(audio_device_impl.cc:579): StereoPlayoutIsAvailable
+(audio_device_impl.cc:586): output: 1
+(audio_device_impl.cc:591): SetStereoPlayout(1)
+(audio_device_buffer.cc:204): SetPlayoutChannels(2)
+(audio_device_impl.cc:743): SetRecordingDevice
+(audio_device_impl.cc:373): InitMicrophone
+(audio_device_impl.cc:536): StereoRecordingIsAvailable
+(audio_device_impl.cc:543): output: 1
+(audio_device_impl.cc:548): SetStereoRecording(1)
+(audio_device_buffer.cc:198): SetRecordingChannels(2)
+(audio_device_impl.cc:850): RegisterAudioCallback
+(audio_device_buffer.cc:79): RegisterAudioCallback
+(webrtcvoiceengine.cc:313): WebRtcVoiceEngine::ApplyOptions: AudioOptions {aec: 1, agc: 1, ns: 1, hf: 1, swap: 0, audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, typing: 1, experimental_agc: 0, extended_filter_aec: 0, delay_agnostic_aec: 0, experimental_ns: 0, residual_echo_detector: 1, }
+(audio_device_impl.cc:866): BuiltInAECIsAvailable
+(audio_device_impl.cc:869): output: 1
+(audio_device_impl.cc:874): EnableBuiltInAEC(1)
+(audio_device_impl.cc:877): output: 0
+(webrtcvoiceengine.cc:414): Disabling EC since built-in EC will be used instead
+(audio_processing_impl.cc:658): Highpass filter activated: 0
+(audio_processing_impl.cc:672): Gain Controller 2 activated: 0
+(audio_processing_impl.cc:674): Pre-amplifier activated: 0
+(apm_helpers.cc:89): Echo control set to 0 with mode 0
+(audio_device_impl.cc:882): BuiltInAGCIsAvailable
+(audio_device_generic.cc:27): BuiltInAGCIsAvailable: Not supported on this platform
+(audio_device_impl.cc:885): output: 0
+(apm_helpers.cc:78): AGC set to 1 with mode 0
+(audio_device_impl.cc:898): BuiltInNSIsAvailable
+(audio_device_generic.cc:37): BuiltInNSIsAvailable: Not supported on this platform
+(audio_device_impl.cc:901): output: 0
+(apm_helpers.cc:103): NS set to 1
+(webrtcvoiceengine.cc:469): Stereo swapping enabled? 0
+(webrtcvoiceengine.cc:474): NetEq capacity is 50
+(webrtcvoiceengine.cc:480): NetEq fast mode? 0
+(webrtcvoiceengine.cc:487): Typing detection is enabled? 1
+(apm_helpers.cc:117): VAD set to 1 for typing detection.
+(webrtcvoiceengine.cc:498): Delay agnostic aec is enabled? 0
+(webrtcvoiceengine.cc:508): Extended filter aec is enabled? 0
+(webrtcvoiceengine.cc:518): Experimental ns is enabled? 0
+(audio_processing_impl.cc:658): Highpass filter activated: 1
+(audio_processing_impl.cc:672): Gain Controller 2 activated: 0
+(audio_processing_impl.cc:674): Pre-amplifier activated: 0
+(messagequeue.cc:518): Message took 178ms to dispatch. Posted from: Init@../../pc/channelmanager.cc:133
+(rtc_event_log_impl.cc:68): Creating legacy encoder for RTC event log.
+(messagequeue.cc:518): Message took 51ms to dispatch. Posted from: CreatePeerConnection@../../pc/peerconnectionfactory.cc:382
+(peerconnectionfactory.cc:490): Using default network controller factory
+(alr_experiment.cc:66): Using ALR experiment settings: pacing factor: 1, max pacer queue length: 2875, ALR start bandwidth usage percent: 80, ALR end budget level percent: 40, ALR end budget level percent: -60, ALR experiment group ID: 3
+(bitrate_prober.cc:64): Bandwidth probing enabled, set to inactive
+(rtp_transport_controller_send.cc:38): Using TaskQueue based SSCC
+(paced_sender.cc:385): ProcessThreadAttached 0x7ec4e8
+(cpu_info.cc:46): Available number of cores: 4
+(aimd_rate_control.cc:103): Using aimd rate control with back off factor 0.85
+(remote_bitrate_estimator_single_stream.cc:71): RemoteBitrateEstimatorSingleStream: Instantiating.
+(peerconnection.cc:1301): Adding audio transceiver in response to a call to AddTrack.
+(opensslidentity.cc:44): Making key pair
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\devenum.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntmarta.dll”。无法查找或打开 PDB 文件。
+(opensslidentity.cc:92): Returning key pair
+(opensslcertificate.cc:58): Making certificate for WebRTC
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\wintrust.dll”。无法查找或打开 PDB 文件。
+(opensslcertificate.cc:108): Returning certificate
+(device_info_ds.cc:204): GetDeviceInfo ManyCam Virtual Webcam
+(device_info_ds.cc:204): GetDeviceInfo Logitech HD Webcam C270
+(device_info_ds.cc:204): GetDeviceInfo ManyCam Virtual Webcam
+(device_info_ds.cc:310): CreateCapabilityMap called for device \\?\root#image#0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\ksproxy.ax”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\ksuser.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\d3d9.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\d3d8thk.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\Kswdmcap.ax”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\mfc42.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\odbc32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\comctl32.dll”。无法查找或打开 PDB 文件。
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\odbcint.dll”。模块已生成，不包含符号。
+(device_info_ds.cc:562): Failed to get the product Id
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:461): GetMaxAvailableFrameRate NOT SUPPORTED
+(device_info_ds.cc:517): Camera capability, width:1920 height:1440 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1920 height:1080 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1600 height:1200 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1280 height:960 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1280 height:720 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1024 height:768 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:800 height:600 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:640 height:480 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:640 height:360 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:512 height:384 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:352 height:288 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:320 height:240 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:320 height:180 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:176 height:144 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:160 height:120 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:320 height:240 type:3 fps:30
+(device_info_ds.cc:536): CreateCapabilityMap 16
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\quartz.dll”。无法查找或打开 PDB 文件。
+线程 0x4ec 已退出，返回值为 0 (0x0)。
+(device_info_ds.cc:310): CreateCapabilityMap called for device \\?\root#image#0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+(device_info_ds.cc:562): Failed to get the product Id
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:387): Device support FORMAT_VideoInfo2
+(device_info_ds.cc:461): GetMaxAvailableFrameRate NOT SUPPORTED
+(device_info_ds.cc:517): Camera capability, width:1920 height:1440 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1920 height:1080 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1600 height:1200 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1280 height:960 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1280 height:720 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:1024 height:768 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:800 height:600 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:640 height:480 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:640 height:360 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:512 height:384 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:352 height:288 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:320 height:240 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:320 height:180 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:176 height:144 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:160 height:120 type:3 fps:30
+(device_info_ds.cc:517): Camera capability, width:320 height:240 type:3 fps:30
+(device_info_ds.cc:536): CreateCapabilityMap 16
+(sink_filter_ds.cc:147): GetMediaType position 0, width 640, height 480, biCompression 0x32595559
+(sink_filter_ds.cc:147): GetMediaType position 1, width 640, height 480, biCompression 0x0
+(sink_filter_ds.cc:188): CheckMediaType width:640 height:480 Compression:0x0
+(video_capture_ds.cc:134): Capture device '\\?\root#image#0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global' initialized.
+线程 0x26f0 已退出，返回值为 0 (0x0)。
+线程 0x1e94 已退出，返回值为 0 (0x0)。
+(sink_filter_ds.cc:147): GetMediaType position 0, width 640, height 480, biCompression 0x32595559
+(sink_filter_ds.cc:147): GetMediaType position 1, width 640, height 480, biCompression 0x0
+(sink_filter_ds.cc:188): CheckMediaType width:640 height:480 Compression:0x0
+(webrtcvideocapturer.cc:280): Camera '0' started with format 24BG 640x480x30, elapsed time 3 ms
+(peerconnection.cc:1301): Adding video transceiver in response to a call to AddTrack.
+(mediasession.cc:353): Duplicate id found. Reassigning from 102 to 127
+(mediasession.cc:353): Duplicate id found. Reassigning from 104 to 125
+(mediasession.cc:353): Duplicate id found. Reassigning from 106 to 124
+(mediasession.cc:353): Duplicate id found. Reassigning from 110 to 123
+(mediasession.cc:353): Duplicate id found. Reassigning from 112 to 122
+(mediasession.cc:353): Duplicate id found. Reassigning from 103 to 121
+(mediasession.cc:353): Duplicate id found. Reassigning from 105 to 120
+(mediasession.cc:353): Duplicate id found. Reassigning from 111 to 119
+(mediasession.cc:353): Duplicate id found. Reassigning from 109 to 118
+(p2ptransportchannel.cc:494): Set backup connection ping interval to 25000 milliseconds.
+(p2ptransportchannel.cc:503): Set ICE receiving timeout to 2500 milliseconds
+(p2ptransportchannel.cc:510): Set ping most likely connection to 0
+(p2ptransportchannel.cc:517): Set stable_writable_connection_ping_interval to 2500
+(p2ptransportchannel.cc:530): Set presume writable when fully relayed to 0
+(p2ptransportchannel.cc:539): Set regather_on_failed_networks_interval to 300000
+(p2ptransportchannel.cc:558): Set receiving_switching_delay to 1000
+(dtlssrtptransport.cc:60): Setting RTCP Transport on 0 transport 0
+(dtlssrtptransport.cc:65): Setting RTP Transport on 0 transport 86ca50
+(p2ptransportchannel.cc:494): Set backup connection ping interval to 25000 milliseconds.
+(p2ptransportchannel.cc:503): Set ICE receiving timeout to 2500 milliseconds
+(p2ptransportchannel.cc:510): Set ping most likely connection to 0
+(p2ptransportchannel.cc:517): Set stable_writable_connection_ping_interval to 2500
+(p2ptransportchannel.cc:530): Set presume writable when fully relayed to 0
+(p2ptransportchannel.cc:539): Set regather_on_failed_networks_interval to 300000
+(p2ptransportchannel.cc:558): Set receiving_switching_delay to 1000
+(dtlssrtptransport.cc:60): Setting RTCP Transport on 1 transport 0
+(dtlssrtptransport.cc:65): Setting RTP Transport on 1 transport 900ca70
+(p2ptransportchannel.cc:431): Set ICE ufrag: ASbe pwd: aUgtofKpnp8QIWu/HiUBLxzH on transport 0
+(p2ptransportchannel.cc:431): Set ICE ufrag: ASbe pwd: aUgtofKpnp8QIWu/HiUBLxzH on transport 1
+(webrtcvoiceengine.cc:1501): Setting voice channel options: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(webrtcvoiceengine.cc:313): WebRtcVoiceEngine::ApplyOptions: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(webrtcvoiceengine.cc:474): NetEq capacity is 50
+(webrtcvoiceengine.cc:480): NetEq fast mode? 0
+(webrtcvoiceengine.cc:498): Delay agnostic aec is enabled? 0
+(webrtcvoiceengine.cc:508): Extended filter aec is enabled? 0
+(webrtcvoiceengine.cc:518): Experimental ns is enabled? 0
+(audio_processing_impl.cc:658): Highpass filter activated: 1
+(audio_processing_impl.cc:672): Gain Controller 2 activated: 0
+(audio_processing_impl.cc:674): Pre-amplifier activated: 0
+(webrtcvoiceengine.cc:1519): Set voice channel options. Current options: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(channel.cc:115): Created channel for 0
+(channel.cc:183): BaseChannel::Init_w, media_transport=0
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(webrtcvideoengine.cc:472): CreateMediaChannel. Options: VideoOptions {}
+(channel.cc:115): Created channel for 1
+(channel.cc:183): BaseChannel::Init_w, media_transport=0
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(peerconnection.cc:3701): Session: 1786893972905278844 Old state: kStable New state: kHaveLocalOffer
+(channel.cc:816): Setting local voice description
+(webrtcvoiceengine.cc:1337): WebRtcVoiceMediaChannel::SetRecvParameters: {codecs: [AudioCodec[111:opus:48000:0:2], AudioCodec[103:ISAC:16000:0:1], AudioCodec[104:ISAC:32000:0:1], AudioCodec[9:G722:8000:0:1], AudioCodec[102:ILBC:8000:0:1], AudioCodec[0:PCMU:8000:0:1], AudioCodec[8:PCMA:8000:0:1], AudioCodec[106:CN:32000:0:1], AudioCodec[105:CN:16000:0:1], AudioCodec[13:CN:8000:0:1], AudioCodec[110:telephone-event:48000:0:1], AudioCodec[112:telephone-event:32000:0:1], AudioCodec[113:telephone-event:16000:0:1], AudioCodec[126:telephone-event:8000:0:1]], extensions: [{uri: urn:ietf:params:rtp-hdrext:ssrc-audio-level, id: 1}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}]}
+(webrtcvoiceengine.cc:1529): Setting receive voice codecs.
+(webrtcvoiceengine.cc:1800): AddSendStream: {id:audio_label;ssrcs:[3907735452];ssrc_groups:;cname:j+d6jAKEHN6RANXA;stream_ids:stream_id;}
+(neteq_impl.cc:116): NetEq config: sample_rate_hz=16000, enable_post_decode_vad=true, max_packets_in_buffer=50, enable_fast_accelerate=false, enable_muted_state=false
+(audio_coding_module.cc:382): Created
+(channel_send.cc:757): Not setting media_transport_ rate observers.
+(audio_send_stream.cc:144): AudioSendStream: 3907735452
+(audio_send_stream.cc:209): AudioSendStream::ConfigureStream: {rtp: {ssrc: 3907735452, extmap-allow-mixed: false, extensions: [], c_name: j+d6jAKEHN6RANXA}, rtcp_report_interval_ms: 5000, send_transport: (Transport), media_transport: null, min_bitrate_bps: -1, max_bitrate_bps: -1, send_codec_spec: <unset>}
+(call.cc:1079): UpdateAggregateNetworkState: aggregate_state=down
+(send_side_congestion_controller.cc:334): SignalNetworkState Down
+(channel.cc:634): Add send stream ssrc: 3907735452
+(channel.cc:808): Changing voice state, recv=0 send=0
+(channel.cc:952): Setting local video description
+(webrtcvideoengine.cc:942): SetRecvParameters: {codecs: [VideoCodec[96:VP8], VideoCodec[97:rtx], VideoCodec[98:VP9], VideoCodec[99:rtx], VideoCodec[100:VP9], VideoCodec[101:rtx], VideoCodec[127:H264], VideoCodec[121:rtx], VideoCodec[125:H264], VideoCodec[120:rtx], VideoCodec[124:H264], VideoCodec[107:rtx], VideoCodec[108:H264], VideoCodec[109:rtx], VideoCodec[123:red], VideoCodec[119:rtx], VideoCodec[122:ulpfec]], extensions: [{uri: urn:ietf:params:rtp-hdrext:toffset, id: 2}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time, id: 3}, {uri: urn:3gpp:video-orientation, id: 4}, {uri: http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01, id: 5}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/playout-delay, id: 6}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-content-type, id: 7}, {uri: http://www.webrtc.org/experiments/rtp-hdrext/video-timing, id: 8}, {uri: http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07, id: 10}, {uri: urn:ietf:params:rtp-hdrext:sdes:mid, id: 9}]}
+(webrtcvideoengine.cc:957): Changing recv codecs from {VideoCodec[96:VP8], VideoCodec[98:VP9], VideoCodec[100:VP9], VideoCodec[102:H264], VideoCodec[104:H264], VideoCodec[106:H264], VideoCodec[108:H264]} to {VideoCodec[96:VP8], VideoCodec[98:VP9], VideoCodec[100:VP9], VideoCodec[127:H264], VideoCodec[125:H264], VideoCodec[124:H264], VideoCodec[108:H264]}
+(webrtcvideoengine.cc:1061): AddSendStream: {id:video_label;ssrcs:[3804182612,2250979615];ssrc_groups:{semantics:FID;ssrcs:[3804182612,2250979615]};cname:j+d6jAKEHN6RANXA;stream_ids:stream_id;}
+(webrtcvideoengine.cc:1097): SetLocalSsrc on all the receive streams because we added a send stream.
+(channel.cc:634): Add send stream ssrc: 3804182612
+(channel.cc:939): Changing video state, send=0
+(peerconnection.cc:4993): Local and Remote descriptions must be applied to get the SSL Role of the SCTP transport.
+(webrtcvoiceengine.cc:1501): Setting voice channel options: AudioOptions {}
+(webrtcvoiceengine.cc:313): WebRtcVoiceEngine::ApplyOptions: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(webrtcvoiceengine.cc:474): NetEq capacity is 50
+(webrtcvoiceengine.cc:480): NetEq fast mode? 0
+(webrtcvoiceengine.cc:498): Delay agnostic aec is enabled? 0
+(webrtcvoiceengine.cc:508): Extended filter aec is enabled? 0
+(webrtcvoiceengine.cc:518): Experimental ns is enabled? 0
+(audio_processing_impl.cc:658): Highpass filter activated: 1
+(audio_processing_impl.cc:672): Gain Controller 2 activated: 0
+(audio_processing_impl.cc:674): Pre-amplifier activated: 0
+(webrtcvoiceengine.cc:1519): Set voice channel options. Current options: AudioOptions {audio_jitter_buffer_max_packets: 50, audio_jitter_buffer_fast_accelerate: 0, }
+(webrtcvideoengine.cc:1020): SetVideoSend (ssrc= 3804182612, options: VideoOptions {is_screencast : false, }, source = (source))
+(basicportallocator.cc:339): Start getting ports with prune_turn_ports disabled
+(basicportallocator.cc:339): Start getting ports with prune_turn_ports disabled
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "sdp" : "v=0\r\no=- 1786893972905278844 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1\r\na=msid-semantic: WMS stream_id\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 102 0 8 106 105 13 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:ASbe\r\na=ice-pwd:aUgtofKpnp8QIWu/HiUBLxzH\r\na=ice-options:trickle\r\na=fingerprint:sha-256 5C:B6:35:83:A8:81:CA:71:98:58:97:67:3A:B4:36:B8:72:38:12:25:91:80:8A:AA:E4:5A:E2:DA:9A:5A:58:B4\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:stream_id audio_label\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:102 ILBC/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:106 CN/32000\r\na=rtpmap:105 CN/16000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:3907735452 cname:j+d6jAKEHN6RANXA\r\na=ssrc:3907735452 msid:stream_id audio_label\r\na=ssrc:3907735452 mslabel:stream_id\r\na=ssrc:3907735452 label:audio_label\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 127 121 125 120 124 107 108 109 123 119 122\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:ASbe\r\na=ice-pwd:aUgtofKpnp8QIWu/HiUBLxzH\r\na=ice-options:trickle\r\na=fingerprint:sha-256 5C:B6:35:83:A8:81:CA:71:98:58:97:67:3A:B4:36:B8:72:38:12:25:91:80:8A:AA:E4:5A:E2:DA:9A:5A:58:B4\r\na=setup:actpass\r\na=mid:1\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 urn:3gpp:video-orientation\r\na=extmap:5 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:10 http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:stream_id video_label\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=125\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=124\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:123 red/90000\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:122 ulpfec/90000\r\na=ssrc-group:FID 3804182612 2250979615\r\na=ssrc:3804182612 cname:j+d6jAKEHN6RANXA\r\na=ssrc:3804182612 msid:stream_id video_label\r\na=ssrc:3804182612 mslabel:stream_id\r\na=ssrc:3804182612 label:video_label\r\na=ssrc:2250979615 cname:j+d6jAKEHN6RANXA\r\na=ssrc:2250979615 msid:stream_id video_label\r\na=ssrc:2250979615 mslabel:stream_id\r\na=ssrc:2250979615 label:video_label\r\n",
+   "type" : "offer"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"sdp":{"sdp":"v=0\r\no=- 1786893972905278844 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1\r\na=msid-semantic: WMS stream_id\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 102 0 8 106 105 13 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:ASbe\r\na=ice-pwd:aUgtofKpnp8QIWu/HiUBLxzH\r\na=ice-options:trickle\r\na=fingerprint:sha-256 5C:B6:35:83:A8:81:CA:71:98:58:97:67:3A:B4:36:B8:72:38:12:25:91:80:8A:AA:E4:5A:E2:DA:9A:5A:58:B4\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:stream_id audio_label\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:102 ILBC/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:106 CN/32000\r\na=rtpmap:105 CN/16000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:3907735452 cname:j+d6jAKEHN6RANXA\r\na=ssrc:3907735452 msid:stream_id audio_label\r\na=ssrc:3907735452 mslabel:stream_id\r\na=ssrc:3907735452 label:audio_label\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 127 121 125 120 124 107 108 109 123 119 122\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:ASbe\r\na=ice-pwd:aUgtofKpnp8QIWu/HiUBLxzH\r\na=ice-options:trickle\r\na=fingerprint:sha-256 5C:B6:35:83:A8:81:CA:71:98:58:97:67:3A:B4:36:B8:72:38:12:25:91:80:8A:AA:E4:5A:E2:DA:9A:5A:58:B4\r\na=setup:actpass\r\na=mid:1\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 urn:3gpp:video-orientation\r\na=extmap:5 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:10 http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:stream_id video_label\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=125\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=124\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:123 red/90000\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:122 ulpfec/90000\r\na=ssrc-group:FID 3804182612 2250979615\r\na=ssrc:3804182612 cname:j+d6jAKEHN6RANXA\r\na=ssrc:3804182612 msid:stream_id video_label\r\na=ssrc:3804182612 mslabel:stream_id\r\na=ssrc:3804182612 label:video_label\r\na=ssrc:2250979615 cname:j+d6jAKEHN6RANXA\r\na=ssrc:2250979615 msid:stream_id video_label\r\na=ssrc:2250979615 mslabel:stream_id\r\na=ssrc:2250979615 label:video_label\r\n","type":"offer"},"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__offer"}
+(webrtcPeer.cc:39): OnSuccess
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\wship6.dll”。无法查找或打开 PDB 文件。
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_offer","data":{"sdp":{"sdp":"v=0\r\no=- 7881164033436382786 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0 1\r\na=msid-semantic: WMS stream_id\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 102 0 8 106 105 13 110 112 113 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:r+ud\r\na=ice-pwd:1JdbtQkP9gjrQT3pP0qGr65q\r\na=ice-options:trickle\r\na=fingerprint:sha-256 F7:14:EF:66:45:A5:ED:FC:1A:18:4B:CA:6E:CF:14:F1:D2:2E:6F:62:14:61:86:C5:FB:7F:74:AB:E6:3C:51:13\r\na=setup:actpass\r\na=mid:0\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:stream_id audio_label\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:104 ISAC/32000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:102 ILBC/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:106 CN/32000\r\na=rtpmap:105 CN/16000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:110 telephone-event/48000\r\na=rtpmap:112 telephone-event/32000\r\na=rtpmap:113 telephone-event/16000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:1779444653 cname:OapuPH8iPeKX8QJg\r\na=ssrc:1779444653 msid:stream_id audio_label\r\na=ssrc:1779444653 mslabel:stream_id\r\na=ssrc:1779444653 label:audio_label\r\nm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 127 121 125 120 124 107 108 109 123 119 122\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:r+ud\r\na=ice-pwd:1JdbtQkP9gjrQT3pP0qGr65q\r\na=ice-options:trickle\r\na=fingerprint:sha-256 F7:14:EF:66:45:A5:ED:FC:1A:18:4B:CA:6E:CF:14:F1:D2:2E:6F:62:14:61:86:C5:FB:7F:74:AB:E6:3C:51:13\r\na=setup:actpass\r\na=mid:1\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 urn:3gpp:video-orientation\r\na=extmap:5 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\na=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\na=extmap:10 http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07\r\na=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid\r\na=sendrecv\r\na=msid:stream_id video_label\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:96 VP8/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 transport-cc\r\na=rtcp-fb:96 ccm fir\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=96\r\na=rtpmap:98 VP9/90000\r\na=rtcp-fb:98 goog-remb\r\na=rtcp-fb:98 transport-cc\r\na=rtcp-fb:98 ccm fir\r\na=rtcp-fb:98 nack\r\na=rtcp-fb:98 nack pli\r\na=fmtp:98 profile-id=0\r\na=rtpmap:99 rtx/90000\r\na=fmtp:99 apt=98\r\na=rtpmap:100 VP9/90000\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=fmtp:100 profile-id=2\r\na=rtpmap:101 rtx/90000\r\na=fmtp:101 apt=100\r\na=rtpmap:127 H264/90000\r\na=rtcp-fb:127 goog-remb\r\na=rtcp-fb:127 transport-cc\r\na=rtcp-fb:127 ccm fir\r\na=rtcp-fb:127 nack\r\na=rtcp-fb:127 nack pli\r\na=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f\r\na=rtpmap:121 rtx/90000\r\na=fmtp:121 apt=127\r\na=rtpmap:125 H264/90000\r\na=rtcp-fb:125 goog-remb\r\na=rtcp-fb:125 transport-cc\r\na=rtcp-fb:125 ccm fir\r\na=rtcp-fb:125 nack\r\na=rtcp-fb:125 nack pli\r\na=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f\r\na=rtpmap:120 rtx/90000\r\na=fmtp:120 apt=125\r\na=rtpmap:124 H264/90000\r\na=rtcp-fb:124 goog-remb\r\na=rtcp-fb:124 transport-cc\r\na=rtcp-fb:124 ccm fir\r\na=rtcp-fb:124 nack\r\na=rtcp-fb:124 nack pli\r\na=fmtp:124 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\na=rtpmap:107 rtx/90000\r\na=fmtp:107 apt=124\r\na=rtpmap:108 H264/90000\r\na=rtcp-fb:108 goog-remb\r\na=rtcp-fb:108 transport-cc\r\na=rtcp-fb:108 ccm fir\r\na=rtcp-fb:108 nack\r\na=rtcp-fb:108 nack pli\r\na=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\na=rtpmap:109 rtx/90000\r\na=fmtp:109 apt=108\r\na=rtpmap:123 red/90000\r\na=rtpmap:119 rtx/90000\r\na=fmtp:119 apt=123\r\na=rtpmap:122 ulpfec/90000\r\na=ssrc-group:FID 990284042 4278482011\r\na=ssrc:990284042 cname:OapuPH8iPeKX8QJg\r\na=ssrc:990284042 msid:stream_id video_label\r\na=ssrc:990284042 mslabel:stream_id\r\na=ssrc:990284042 label:video_label\r\na=ssrc:4278482011 cname:OapuPH8iPeKX8QJg\r\na=ssrc:4278482011 msid:stream_id video_label\r\na=ssrc:4278482011 mslabel:stream_id\r\na=ssrc:4278482011 label:video_label\r\n","type":"offer"},"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"sdp":"v=0
+o=- 7881164033436382786 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0 1
+a=msid-semantic: WMS stream_id
+m=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 102 0 8 106 105 13 110 112 113 126
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:r+ud
+a=ice-pwd:1JdbtQkP9gjrQT3pP0qGr65q
+a=ice-options:trickle
+a=fingerprint:sha-256 F7:14:EF:66:45:A5:ED:FC:1A:18:4B:CA:6E:CF:14:F1:D2:2E:6F:62:14:61:86:C5:FB:7F:74:AB:E6:3C:51:13
+a=setup:actpass
+a=mid:0
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid
+a=sendrecv
+a=msid:stream_id audio_label
+a=rtcp-mux
+a=rtpmap:111 opus/48000/2
+a=rtcp-fb:111 transport-cc
+a=fmtp:111 minptime=10;useinbandfec=1
+a=rtpmap:103 ISAC/16000
+a=rtpmap:104 ISAC/32000
+a=rtpmap:9 G722/8000
+a=rtpmap:102 ILBC/8000
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:106 CN/32000
+a=rtpmap:105 CN/16000
+a=rtpmap:13 CN/8000
+a=rtpmap:110 telephone-event/48000
+a=rtpmap:112 telephone-event/32000
+a=rtpmap:113 telephone-event/16000
+a=rtpmap:126 telephone-event/8000
+a=ssrc:1779444653 cname:OapuPH8iPeKX8QJg
+a=ssrc:1779444653 msid:stream_id audio_label
+a=ssrc:1779444653 mslabel:stream_id
+a=ssrc:1779444653 label:audio_label
+m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 127 121 125 120 124 107 108 109 123 119 122
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:r+ud
+a=ice-pwd:1JdbtQkP9gjrQT3pP0qGr65q
+a=ice-options:trickle
+a=fingerprint:sha-256 F7:14:EF:66:45:A5:ED:FC:1A:18:4B:CA:6E:CF:14:F1:D2:2E:6F:62:14:61:86:C5:FB:7F:74:AB:E6:3C:51:13
+a=setup:actpass
+a=mid:1
+a=extmap:2 urn:ietf:params:rtp-hdrext:toffset
+a=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=extmap:4 urn:3gpp:video-orientation
+a=extmap:5 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
+a=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
+a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
+a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
+a=extmap:10 http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07
+a=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid
+a=sendrecv
+a=msid:stream_id video_label
+a=rtcp-mux
+a=rtcp-rsize
+a=rtpmap:96 VP8/90000
+a=rtcp-fb:96 goog-remb
+a=rtcp-fb:96 transport-cc
+a=rtcp-fb:96 ccm fir
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtpmap:97 rtx/90000
+a=fmtp:97 apt=96
+a=rtpmap:98 VP9/90000
+a=rtcp-fb:98 goog-remb
+a=rtcp-fb:98 transport-cc
+a=rtcp-fb:98 ccm fir
+a=rtcp-fb:98 nack
+a=rtcp-fb:98 nack pli
+a=fmtp:98 profile-id=0
+a=rtpmap:99 rtx/90000
+a=fmtp:99 apt=98
+a=rtpmap:100 VP9/90000
+a=rtcp-fb:100 goog-remb
+a=rtcp-fb:100 transport-cc
+a=rtcp-fb:100 ccm fir
+a=rtcp-fb:100 nack
+a=rtcp-fb:100 nack pli
+a=fmtp:100 profile-id=2
+a=rtpmap:101 rtx/90000
+a=fmtp:101 apt=100
+a=rtpmap:127 H264/90000
+a=rtcp-fb:127 goog-remb
+a=rtcp-fb:127 transport-cc
+a=rtcp-fb:127 ccm fir
+a=rtcp-fb:127 nack
+a=rtcp-fb:127 nack pli
+a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
+a=rtpmap:121 rtx/90000
+a=fmtp:121 apt=127
+a=rtpmap:125 H264/90000
+a=rtcp-fb:125 goog-remb
+a=rtcp-fb:125 transport-cc
+a=rtcp-fb:125 ccm fir
+a=rtcp-fb:125 nack
+a=rtcp-fb:125 nack pli
+a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
+a=rtpmap:120 rtx/90000
+a=fmtp:120 apt=125
+a=rtpmap:124 H264/90000
+a=rtcp-fb:124 goog-remb
+a=rtcp-fb:124 transport-cc
+a=rtcp-fb:124 ccm fir
+a=rtcp-fb:124 nack
+a=rtcp-fb:124 nack pli
+a=fmtp:124 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
+a=rtpmap:107 rtx/90000
+a=fmtp:107 apt=124
+a=rtpmap:108 H264/90000
+a=rtcp-fb:108 goog-remb
+a=rtcp-fb:108 transport-cc
+a=rtcp-fb:108 ccm fir
+a=rtcp-fb:108 nack
+a=rtcp-fb:108 nack pli
+a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
+a=rtpmap:109 rtx/90000
+a=fmtp:109 apt=108
+a=rtpmap:123 red/90000
+a=rtpmap:119 rtx/90000
+a=fmtp:119 apt=123
+a=rtpmap:122 ulpfec/90000
+a=ssrc-group:FID 990284042 4278482011
+a=ssrc:990284042 cname:OapuPH8iPeKX8QJg
+a=ssrc:990284042 msid:stream_id video_label
+a=ssrc:990284042 mslabel:stream_id
+a=ssrc:990284042 label:video_label
+a=ssrc:4278482011 cname:OapuPH8iPeKX8QJg
+a=ssrc:4278482011 msid:stream_id video_label
+a=ssrc:4278482011 mslabel:stream_id
+a=ssrc:4278482011 label:video_label
+","type":"offer"}
+(basicportallocator.cc:107): Filtered out ignored networks:
+(basicportallocator.cc:109): Net[Software:::1/128:Loopback:id=2]
+(basicportallocator.cc:109): Net[Software:127.0.0.1/32:Loopback:id=1]
+(basicportallocator.cc:856): Network manager has started
+(basicportallocator.cc:107): Filtered out ignored networks:
+(basicportallocator.cc:109): Net[Software:::1/128:Loopback:id=2]
+(basicportallocator.cc:109): Net[Software:127.0.0.1/32:Loopback:id=1]
+(basicportallocator.cc:856): Network manager has started
+(basicportallocator.cc:107): Filtered out ignored networks:
+(basicportallocator.cc:109): Net[Software:::1/128:Loopback:id=2]
+(basicportallocator.cc:109): Net[Software:127.0.0.1/32:Loopback:id=1]
+(basicportallocator.cc:770): Allocate ports on 5 networks
+(basicportallocator.cc:107): Filtered out ignored networks:
+(basicportallocator.cc:109): Net[Software:::1/128:Loopback:id=2]
+(basicportallocator.cc:109): Net[Software:127.0.0.1/32:Loopback:id=1]
+(basicportallocator.cc:770): Allocate ports on 5 networks
+(basicportallocator.cc:1322): Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]: Allocation Phase=Udp
+(port.cc:322): Port[9050cc0::1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Port created with network cost 50
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[9050cc0:0:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Added port to allocator
+(basicportallocator.cc:917): Port[9050cc0:0:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Gathered candidate: Cand[:2023485717:1:udp:2122255103:[2001::2841:aa90:473:15e1:2df3:fddd]:52745:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:3:50:0]
+(basicportallocator.cc:945): Port[9050cc0:0:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[9050cc0:0:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: SetOption(5, 0) failed: 0
+(stunport.cc:415): Port[9050cc0:0:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Starting STUN host lookup for stun.l.google.com:19302
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]: Allocation Phase=Udp
+(port.cc:322): Port[904f860::1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Port created with network cost 0
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[904f860:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Added port to allocator
+(basicportallocator.cc:917): Port[904f860:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Gathered candidate: Cand[:3918727013:1:udp:2122194687:192.168.59.3:52746:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:4:0:0]
+(basicportallocator.cc:945): Port[904f860:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[904f860:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: SetOption(5, 0) failed: 0
+(stunport.cc:415): Port[904f860:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Starting STUN host lookup for stun.l.google.com:19302
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]: Allocation Phase=Udp
+(port.cc:322): Port[904c450::1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Port created with network cost 0
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[904c450:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Added port to allocator
+(basicportallocator.cc:917): Port[904c450:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Gathered candidate: Cand[:2218435994:1:udp:2122129151:192.168.99.1:52747:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:5:0:0]
+(basicportallocator.cc:945): Port[904c450:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[904c450:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: SetOption(5, 0) failed: 0
+(stunport.cc:415): Port[904c450:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Starting STUN host lookup for stun.l.google.com:19302
+(basicportallocator.cc:1322): Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]: Allocation Phase=Udp
+(port.cc:322): Port[910e1a8::1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Port created with network cost 0
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[910e1a8:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Added port to allocator
+(basicportallocator.cc:917): Port[910e1a8:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Gathered candidate: Cand[:1670184482:1:udp:2122063615:169.254.254.138:52748:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:6:0:0]
+(basicportallocator.cc:945): Port[910e1a8:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[910e1a8:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: SetOption(5, 0) failed: 0
+(stunport.cc:415): Port[910e1a8:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Starting STUN host lookup for stun.l.google.com:19302
+(basicportallocator.cc:1322): Net[Realtek:10.155.31.100/32:Ethernet:id=7]: Allocation Phase=Udp
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\rasadhlp.dll”。无法查找或打开 PDB 文件。
+(port.cc:322): Port[91142a0::1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port created with network cost 0
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[91142a0:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Added port to allocator
+(basicportallocator.cc:917): Port[91142a0:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Gathered candidate: Cand[:4147939438:1:udp:2121998079:10.155.31.100:52749:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:7:0:0]
+(basicportallocator.cc:945): Port[91142a0:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[91142a0:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: SetOption(5, 0) failed: 0
+(stunport.cc:415): Port[91142a0:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Starting STUN host lookup for stun.l.google.com:19302
+(basicportallocator.cc:1322): Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]: Allocation Phase=Udp
+(port.cc:322): Port[911ac58::1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Port created with network cost 50
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 1
+(basicportallocator.cc:899): Port[911ac58:1:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Added port to allocator
+(basicportallocator.cc:917): Port[911ac58:1:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Gathered candidate: Cand[:2023485717:1:udp:2122255103:[2001::2841:aa90:473:15e1:2df3:fddd]:52750:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:3:50:0]
+(basicportallocator.cc:945): Port[911ac58:1:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[911ac58:1:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: SetOption(5, 0) failed: 0
+(stunport.cc:415): Port[911ac58:1:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Starting STUN host lookup for stun.l.google.com:19302
+“clientlib.exe”(Win32): 已加载“C:\Windows\SysWOW64\FWPUCLNT.DLL”。无法查找或打开 PDB 文件。
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]: Allocation Phase=Udp
+(port.cc:322): Port[9120800::1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Port created with network cost 0
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 1
+(basicportallocator.cc:899): Port[9120800:1:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Added port to allocator
+(basicportallocator.cc:917): Port[9120800:1:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Gathered candidate: Cand[:3918727013:1:udp:2122194687:192.168.59.3:52751:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:4:0:0]
+(basicportallocator.cc:945): Port[9120800:1:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[9120800:1:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: SetOption(5, 0) failed: 0
+(stunport.cc:415): Port[9120800:1:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Starting STUN host lookup for stun.l.google.com:19302
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]: Allocation Phase=Udp
+(port.cc:322): Port[9137328::1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Port created with network cost 0
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 1
+(basicportallocator.cc:899): Port[9137328:1:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Added port to allocator
+(basicportallocator.cc:917): Port[9137328:1:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Gathered candidate: Cand[:2218435994:1:udp:2122129151:192.168.99.1:52752:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:5:0:0]
+(basicportallocator.cc:945): Port[9137328:1:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[9137328:1:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: SetOption(5, 0) failed: 0
+(stunport.cc:415): Port[9137328:1:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Starting STUN host lookup for stun.l.google.com:19302
+(basicportallocator.cc:1322): Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]: Allocation Phase=Udp
+(port.cc:322): Port[91384f8::1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Port created with network cost 0
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 1
+(basicportallocator.cc:899): Port[91384f8:1:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Added port to allocator
+(basicportallocator.cc:917): Port[91384f8:1:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Gathered candidate: Cand[:1670184482:1:udp:2122063615:169.254.254.138:52753:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:6:0:0]
+(basicportallocator.cc:945): Port[91384f8:1:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[91384f8:1:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: SetOption(5, 0) failed: 0
+(stunport.cc:415): Port[91384f8:1:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Starting STUN host lookup for stun.l.google.com:19302
+线程 0x23e8 已退出，返回值为 0 (0x0)。
+线程 0x2214 已退出，返回值为 0 (0x0)。
+线程 0x26e0 已退出，返回值为 0 (0x0)。
+线程 0x2458 已退出，返回值为 0 (0x0)。
+线程 0xdc8 已退出，返回值为 0 (0x0)。
+线程 0x27f8 已退出，返回值为 0 (0x0)。
+线程 0x1c8c 已退出，返回值为 0 (0x0)。
+线程 0x17c0 已退出，返回值为 0 (0x0)。
+(basicportallocator.cc:1322): Net[Realtek:10.155.31.100/32:Ethernet:id=7]: Allocation Phase=Udp
+(port.cc:322): Port[9121668::1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port created with network cost 0
+(basicportallocator.cc:1393): AllocationSequence: UDPPort will be handling the STUN candidate generation.
+(basicportallocator.cc:880): Adding allocated port for 1
+(basicportallocator.cc:899): Port[9121668:1:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Added port to allocator
+(basicportallocator.cc:917): Port[9121668:1:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Gathered candidate: Cand[:4147939438:1:udp:2121998079:10.155.31.100:52754:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:7:0:0]
+(basicportallocator.cc:945): Port[9121668:1:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[9121668:1:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: SetOption(5, 0) failed: 0
+(stunport.cc:415): Port[9121668:1:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Starting STUN host lookup for stun.l.google.com:19302
+线程 0xb18 已退出，返回值为 0 (0x0)。
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+线程 0x26f8 已退出，返回值为 0 (0x0)。
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(thread.cc:303): Waiting for the thread to join, but blocking calls have been disallowed
+(webrtcPeer.cc:428):  Received session description :{"sdp":"v=0
+o=- 7881164033436382786 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0 1
+a=msid-semantic: WMS stream_id
+m=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 102 0 8 106 105 13 110 112 113 126
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:r+ud
+a=ice-pwd:1JdbtQkP9gjrQT3pP0qGr65q
+a=ice-options:trickle
+a=fingerprint:sha-256 F7:14:EF:66:45:A5:ED:FC:1A:18:4B:CA:6E:CF:14:F1:D2:2E:6F:62:14:61:86:C5:FB:7F:74:AB:E6:3C:51:13
+a=setup:actpass
+a=mid:0
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid
+a=sendrecv
+a=msid:stream_id audio_label
+a=rtcp-mux
+a=rtpmap:111 opus/48000/2
+a=rtcp-fb:111 transport-cc
+a=fmtp:111 minptime=10;useinbandfec=1
+a=rtpmap:103 ISAC/16000
+a=rtpmap:104 ISAC/32000
+a=rtpmap:9 G722/8000
+a=rtpmap:102 ILBC/8000
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:106 CN/32000
+a=rtpmap:105 CN/16000
+a=rtpmap:13 CN/8000
+a=rtpmap:110 telephone-event/48000
+a=rtpmap:112 telephone-event/32000
+a=rtpmap:113 telephone-event/16000
+a=rtpmap:126 telephone-event/8000
+a=ssrc:1779444653 cname:OapuPH8iPeKX8QJg
+a=ssrc:1779444653 msid:stream_id audio_label
+a=ssrc:1779444653 mslabel:stream_id
+a=ssrc:1779444653 label:audio_label
+m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 127 121 125 120 124 107 108 109 123 119 122
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:r+ud
+a=ice-pwd:1JdbtQkP9gjrQT3pP0qGr65q
+a=ice-options:trickle
+a=fingerprint:sha-256 F7:14:EF:66:45:A5:ED:FC:1A:18:4B:CA:6E:CF:14:F1:D2:2E:6F:62:14:61:86:C5:FB:7F:74:AB:E6:3C:51:13
+a=setup:actpass
+a=mid:1
+a=extmap:2 urn:ietf:params:rtp-hdrext:toffset
+a=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
+a=extmap:4 urn:3gpp:video-orientation
+a=extmap:5 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
+a=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
+a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
+a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
+a=extmap:10 http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07
+a=extmap:9 urn:ietf:params:rtp-hdrext:sdes:mid
+a=sendrecv
+a=msid:stream_id video_label
+a=rtcp-mux
+a=rtcp-rsize
+a=rtpmap:96 VP8/90000
+a=rtcp-fb:96 goog-remb
+a=rtcp-fb:96 transport-cc
+a=rtcp-fb:96 ccm fir
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtpmap:97 rtx/90000
+a=fmtp:97 apt=96
+a=rtpmap:98 VP9/90000
+a=rtcp-fb:98 goog-remb
+a=rtcp-fb:98 transport-cc
+a=rtcp-fb:98 ccm fir
+a=rtcp-fb:98 nack
+a=rtcp-fb:98 nack pli
+a=fmtp:98 profile-id=0
+a=rtpmap:99 rtx/90000
+a=fmtp:99 apt=98
+a=rtpmap:100 VP9/90000
+a=rtcp-fb:100 goog-remb
+a=rtcp-fb:100 transport-cc
+a=rtcp-fb:100 ccm fir
+a=rtcp-fb:100 nack
+a=rtcp-fb:100 nack pli
+a=fmtp:100 profile-id=2
+a=rtpmap:101 rtx/90000
+a=fmtp:101 apt=100
+a=rtpmap:127 H264/90000
+a=rtcp-fb:127 goog-remb
+a=rtcp-fb:127 transport-cc
+a=rtcp-fb:127 ccm fir
+a=rtcp-fb:127 nack
+a=rtcp-fb:127 nack pli
+a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
+a=rtpmap:121 rtx/90000
+a=fmtp:121 apt=127
+a=rtpmap:125 H264/90000
+a=rtcp-fb:125 goog-remb
+a=rtcp-fb:125 transport-cc
+a=rtcp-fb:125 ccm fir
+a=rtcp-fb:125 nack
+a=rtcp-fb:125 nack pli
+a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
+a=rtpmap:120 rtx/90000
+a=fmtp:120 apt=125
+a=rtpmap:124 H264/90000
+a=rtcp-fb:124 goog-remb
+a=rtcp-fb:124 transport-cc
+a=rtcp-fb:124 ccm fir
+a=rtcp-fb:124 nack
+a=rtcp-fb:124 nack pli
+a=fmtp:124 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
+a=rtpmap:107 rtx/90000
+a=fmtp:107 apt=124
+a=rtpmap:108 H264/90000
+a=rtcp-fb:108 goog-remb
+a=rtcp-fb:108 transport-cc
+a=rtcp-fb:108 ccm fir
+a=rtcp-fb:108 nack
+a=rtcp-fb:108 nack pli
+a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
+a=rtpmap:109 rtx/90000
+a=fmtp:109 apt=108
+a=rtpmap:123 red/90000
+a=rtpmap:119 rtx/90000
+a=fmtp:119 apt=123
+a=rtpmap:122 ulpfec/90000
+a=ssrc-group:FID 990284042 4278482011
+a=ssrc:990284042 cname:OapuPH8iPeKX8QJg
+a=ssrc:990284042 msid:stream_id video_label
+a=ssrc:990284042 mslabel:stream_id
+a=ssrc:990284042 label:video_label
+a=ssrc:4278482011 cname:OapuPH8iPeKX8QJg
+a=ssrc:4278482011 msid:stream_id video_label
+a=ssrc:4278482011 mslabel:stream_id
+a=ssrc:4278482011 label:video_label
+","type":"offer"}
+(peerconnection.cc:6068): Called in wrong state: kHaveLocalOffer (INVALID_STATE)
+(peerconnection.cc:2283): Failed to set remote offer sdp: Called in wrong state: kHaveLocalOffer
+(peerconnection.cc:1931): PeerConnection cannot create an answer in a state other than have-remote-offer or have-local-pranswer.
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":0,"candidate":"candidate:2023485717 1 udp 2122255103 2001::2841:aa90:473:15e1:2df3:fddd 52565 typ host generation 0 ufrag r+ud network-id 3 network-cost 50","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:2023485717 1 udp 2122255103 2001::2841:aa90:473:15e1:2df3:fddd 52565 typ host generation 0 ufrag r+ud network-id 3 network-cost 50","sdpMLineIndex":0,"sdpMid":"0"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":0,"candidate":"candidate:3918727013 1 udp 2122194687 192.168.59.3 52566 typ host generation 0 ufrag r+ud network-id 4","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:3918727013 1 udp 2122194687 192.168.59.3 52566 typ host generation 0 ufrag r+ud network-id 4","sdpMLineIndex":0,"sdpMid":"0"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":0,"candidate":"candidate:2218435994 1 udp 2122129151 192.168.99.1 52567 typ host generation 0 ufrag r+ud network-id 5","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:2218435994 1 udp 2122129151 192.168.99.1 52567 typ host generation 0 ufrag r+ud network-id 5","sdpMLineIndex":0,"sdpMid":"0"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":0,"candidate":"candidate:1670184482 1 udp 2122063615 169.254.254.138 52568 typ host generation 0 ufrag r+ud network-id 6","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:1670184482 1 udp 2122063615 169.254.254.138 52568 typ host generation 0 ufrag r+ud network-id 6","sdpMLineIndex":0,"sdpMid":"0"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":0,"candidate":"candidate:4147939438 1 udp 2121998079 10.155.31.100 52569 typ host generation 0 ufrag r+ud network-id 7","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:4147939438 1 udp 2121998079 10.155.31.100 52569 typ host generation 0 ufrag r+ud network-id 7","sdpMLineIndex":0,"sdpMid":"0"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":1,"candidate":"candidate:2023485717 1 udp 2122255103 2001::2841:aa90:473:15e1:2df3:fddd 52570 typ host generation 0 ufrag r+ud network-id 3 network-cost 50","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:2023485717 1 udp 2122255103 2001::2841:aa90:473:15e1:2df3:fddd 52570 typ host generation 0 ufrag r+ud network-id 3 network-cost 50","sdpMLineIndex":1,"sdpMid":"1"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":1,"candidate":"candidate:3918727013 1 udp 2122194687 192.168.59.3 52571 typ host generation 0 ufrag r+ud network-id 4","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:3918727013 1 udp 2122194687 192.168.59.3 52571 typ host generation 0 ufrag r+ud network-id 4","sdpMLineIndex":1,"sdpMid":"1"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":1,"candidate":"candidate:2218435994 1 udp 2122129151 192.168.99.1 52572 typ host generation 0 ufrag r+ud network-id 5","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:2218435994 1 udp 2122129151 192.168.99.1 52572 typ host generation 0 ufrag r+ud network-id 5","sdpMLineIndex":1,"sdpMid":"1"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":1,"candidate":"candidate:1670184482 1 udp 2122063615 169.254.254.138 52573 typ host generation 0 ufrag r+ud network-id 6","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:1670184482 1 udp 2122063615 169.254.254.138 52573 typ host generation 0 ufrag r+ud network-id 6","sdpMLineIndex":1,"sdpMid":"1"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":1,"candidate":"candidate:4147939438 1 udp 2121998079 10.155.31.100 52574 typ host generation 0 ufrag r+ud network-id 7","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:4147939438 1 udp 2121998079 10.155.31.100 52574 typ host generation 0 ufrag r+ud network-id 7","sdpMLineIndex":1,"sdpMid":"1"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":0,"candidate":"candidate:1987350234 1 udp 1685790463 210.12.14.92 52569 typ srflx raddr 10.155.31.100 rport 52569 generation 0 ufrag r+ud network-id 7","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:1987350234 1 udp 1685790463 210.12.14.92 52569 typ srflx raddr 10.155.31.100 rport 52569 generation 0 ufrag r+ud network-id 7","sdpMLineIndex":0,"sdpMid":"0"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":1,"candidate":"candidate:1987350234 1 udp 1685790463 210.12.14.92 52574 typ srflx raddr 10.155.31.100 rport 52574 generation 0 ufrag r+ud network-id 7","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:1987350234 1 udp 1685790463 210.12.14.92 52574 typ srflx raddr 10.155.31.100 rport 52574 generation 0 ufrag r+ud network-id 7","sdpMLineIndex":1,"sdpMid":"1"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":0,"candidate":"candidate:907546085 1 tcp 1518275327 2001::2841:aa90:473:15e1:2df3:fddd 8707 typ host tcptype passive generation 0 ufrag r+ud network-id 3 network-cost 50","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:907546085 1 tcp 1518275327 2001::2841:aa90:473:15e1:2df3:fddd 8707 typ host tcptype passive generation 0 ufrag r+ud network-id 3 network-cost 50","sdpMLineIndex":0,"sdpMid":"0"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":0,"candidate":"candidate:2802908053 1 tcp 1518214911 192.168.59.3 8708 typ host tcptype passive generation 0 ufrag r+ud network-id 4","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:2802908053 1 tcp 1518214911 192.168.59.3 8708 typ host tcptype passive generation 0 ufrag r+ud network-id 4","sdpMLineIndex":0,"sdpMid":"0"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":0,"candidate":"candidate:3401144682 1 tcp 1518149375 192.168.99.1 8709 typ host tcptype passive generation 0 ufrag r+ud network-id 5","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:3401144682 1 tcp 1518149375 192.168.99.1 8709 typ host tcptype passive generation 0 ufrag r+ud network-id 5","sdpMLineIndex":0,"sdpMid":"0"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":0,"candidate":"candidate:755958482 1 tcp 1518083839 169.254.254.138 8710 typ host tcptype passive generation 0 ufrag r+ud network-id 6","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:755958482 1 tcp 1518083839 169.254.254.138 8710 typ host tcptype passive generation 0 ufrag r+ud network-id 6","sdpMLineIndex":0,"sdpMid":"0"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":0,"candidate":"candidate:3116332190 1 tcp 1518018303 10.155.31.100 8711 typ host tcptype passive generation 0 ufrag r+ud network-id 7","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:3116332190 1 tcp 1518018303 10.155.31.100 8711 typ host tcptype passive generation 0 ufrag r+ud network-id 7","sdpMLineIndex":0,"sdpMid":"0"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":1,"candidate":"candidate:907546085 1 tcp 1518275327 2001::2841:aa90:473:15e1:2df3:fddd 8712 typ host tcptype passive generation 0 ufrag r+ud network-id 3 network-cost 50","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:907546085 1 tcp 1518275327 2001::2841:aa90:473:15e1:2df3:fddd 8712 typ host tcptype passive generation 0 ufrag r+ud network-id 3 network-cost 50","sdpMLineIndex":1,"sdpMid":"1"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":1,"candidate":"candidate:2802908053 1 tcp 1518214911 192.168.59.3 8713 typ host tcptype passive generation 0 ufrag r+ud network-id 4","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:2802908053 1 tcp 1518214911 192.168.59.3 8713 typ host tcptype passive generation 0 ufrag r+ud network-id 4","sdpMLineIndex":1,"sdpMid":"1"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+(webrtcPeer.cc:184): OnIceCandidate 0
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:2023485717 1 udp 2122255103 2001::2841:aa90:473:15e1:2df3:fddd 52745 typ host generation 0 ufrag ASbe network-id 3 network-cost 50",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:2023485717 1 udp 2122255103 2001::2841:aa90:473:15e1:2df3:fddd 52745 typ host generation 0 ufrag ASbe network-id 3 network-cost 50","id":"audio","label":0,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 0
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:3918727013 1 udp 2122194687 192.168.59.3 52746 typ host generation 0 ufrag ASbe network-id 4",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:3918727013 1 udp 2122194687 192.168.59.3 52746 typ host generation 0 ufrag ASbe network-id 4","id":"audio","label":0,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 0
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:2218435994 1 udp 2122129151 192.168.99.1 52747 typ host generation 0 ufrag ASbe network-id 5",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:2218435994 1 udp 2122129151 192.168.99.1 52747 typ host generation 0 ufrag ASbe network-id 5","id":"audio","label":0,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 0
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:1670184482 1 udp 2122063615 169.254.254.138 52748 typ host generation 0 ufrag ASbe network-id 6",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:1670184482 1 udp 2122063615 169.254.254.138 52748 typ host generation 0 ufrag ASbe network-id 6","id":"audio","label":0,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 0
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:4147939438 1 udp 2121998079 10.155.31.100 52749 typ host generation 0 ufrag ASbe network-id 7",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:4147939438 1 udp 2121998079 10.155.31.100 52749 typ host generation 0 ufrag ASbe network-id 7","id":"audio","label":0,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 1
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:2023485717 1 udp 2122255103 2001::2841:aa90:473:15e1:2df3:fddd 52750 typ host generation 0 ufrag ASbe network-id 3 network-cost 50",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:2023485717 1 udp 2122255103 2001::2841:aa90:473:15e1:2df3:fddd 52750 typ host generation 0 ufrag ASbe network-id 3 network-cost 50","id":"video","label":1,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 1
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:3918727013 1 udp 2122194687 192.168.59.3 52751 typ host generation 0 ufrag ASbe network-id 4",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:3918727013 1 udp 2122194687 192.168.59.3 52751 typ host generation 0 ufrag ASbe network-id 4","id":"video","label":1,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 1
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:2218435994 1 udp 2122129151 192.168.99.1 52752 typ host generation 0 ufrag ASbe network-id 5",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:2218435994 1 udp 2122129151 192.168.99.1 52752 typ host generation 0 ufrag ASbe network-id 5","id":"video","label":1,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 1
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:1670184482 1 udp 2122063615 169.254.254.138 52753 typ host generation 0 ufrag ASbe network-id 6",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:1670184482 1 udp 2122063615 169.254.254.138 52753 typ host generation 0 ufrag ASbe network-id 6","id":"video","label":1,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 1
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:4147939438 1 udp 2121998079 10.155.31.100 52754 typ host generation 0 ufrag ASbe network-id 7",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:4147939438 1 udp 2121998079 10.155.31.100 52754 typ host generation 0 ufrag ASbe network-id 7","id":"video","label":1,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:41): OnFailure INVALID_STATE: Failed to set remote offer sdp: Called in wrong state: kHaveLocalOffer
+(webrtcPeer.cc:801): INVALID_STATE: PeerConnection cannot create an answer in a state other than have-remote-offer or have-local-pranswer.
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":1,"candidate":"candidate:3401144682 1 tcp 1518149375 192.168.99.1 8714 typ host tcptype passive generation 0 ufrag r+ud network-id 5","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:3401144682 1 tcp 1518149375 192.168.99.1 8714 typ host tcptype passive generation 0 ufrag r+ud network-id 5","sdpMLineIndex":1,"sdpMid":"1"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":1,"candidate":"candidate:755958482 1 tcp 1518083839 169.254.254.138 8715 typ host tcptype passive generation 0 ufrag r+ud network-id 6","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:755958482 1 tcp 1518083839 169.254.254.138 8715 typ host tcptype passive generation 0 ufrag r+ud network-id 6","sdpMLineIndex":1,"sdpMid":"1"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info ws recvMsg {"eventName":"_ice_candidate","data":{"label":1,"candidate":"candidate:3116332190 1 tcp 1518018303 10.155.31.100 8716 typ host tcptype passive generation 0 ufrag r+ud network-id 7","socketId":"1c55d485-e229-4500-9c24-65b0f199c948"}}
+2019-04-15 16:23:44 CVideoRoom::OnNetMsg Info noid
+(webrtcPeer.cc:365): OnMessageFromPeer 1 :{"candidate":"candidate:3116332190 1 tcp 1518018303 10.155.31.100 8716 typ host tcptype passive generation 0 ufrag r+ud network-id 7","sdpMLineIndex":1,"sdpMid":"1"}
+(peerconnection.cc:3116): AddIceCandidate: ICE candidates can't be added without any remote session description.
+(webrtcPeer.cc:458): Failed to apply the received candidate
+(basicportallocator.cc:1322): Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]: Allocation Phase=Relay
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]: Allocation Phase=Relay
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]: Allocation Phase=Relay
+(basicportallocator.cc:1322): Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]: Allocation Phase=Relay
+(basicportallocator.cc:1322): Net[Realtek:10.155.31.100/32:Ethernet:id=7]: Allocation Phase=Relay
+(basicportallocator.cc:1322): Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]: Allocation Phase=Relay
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]: Allocation Phase=Relay
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]: Allocation Phase=Relay
+(basicportallocator.cc:1322): Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]: Allocation Phase=Relay
+(basicportallocator.cc:917): Port[91142a0:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Gathered candidate: Cand[:1987350234:1:udp:1685790463:210.12.14.92:52749:stun:10.155.31.100:52749:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:7:0:0]
+(basicportallocator.cc:1022): Port[91142a0:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port completed gathering candidates.
+(webrtcvideocapturer.cc:336): Captured frame size 640x480. Expected format 24BG 640x480x30
+(webrtcPeer.cc:184): OnIceCandidate 0
+(basicportallocator.cc:917): Port[9121668:1:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Gathered candidate: Cand[:1987350234:1:udp:1685790463:210.12.14.92:52754:stun:10.155.31.100:52754:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:7:0:0]
+(basicportallocator.cc:1022): Port[9121668:1:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port completed gathering candidates.
+(basicportallocator.cc:1322): Net[Realtek:10.155.31.100/32:Ethernet:id=7]: Allocation Phase=Relay
+(basicportallocator.cc:1322): Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]: Allocation Phase=Tcp
+(port.cc:322): Port[904f240::1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Port created with network cost 50
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[904f240:0:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Added port to allocator
+(basicportallocator.cc:917): Port[904f240:0:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Gathered candidate: Cand[:907546085:1:tcp:1518275327:[2001::2841:aa90:473:15e1:2df3:fddd]:8717:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:3:50:0]
+(basicportallocator.cc:945): Port[904f240:0:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[904f240:0:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: SetOption(5, 0) failed: 0
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(basicportallocator.cc:1022): Port[904f240:0:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Port completed gathering candidates.
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]: Allocation Phase=Tcp
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:1987350234 1 udp 1685790463 210.12.14.92 52749 typ srflx raddr 10.155.31.100 rport 52749 generation 0 ufrag ASbe network-id 7",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(port.cc:322): Port[904f4f8::1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Port created with network cost 0
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[904f4f8:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Added port to allocator
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:1987350234 1 udp 1685790463 210.12.14.92 52749 typ srflx raddr 10.155.31.100 rport 52749 generation 0 ufrag ASbe network-id 7","id":"audio","label":0,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(basicportallocator.cc:917): Port[904f4f8:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Gathered candidate: Cand[:2802908053:1:tcp:1518214911:192.168.59.3:8718:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:4:0:0]
+(basicportallocator.cc:945): Port[904f4f8:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[904f4f8:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: SetOption(5, 0) failed: 0
+(basicportallocator.cc:1022): Port[904f4f8:0:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Port completed gathering candidates.
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]: Allocation Phase=Tcp
+(port.cc:322): Port[9119278::1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Port created with network cost 0
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[9119278:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Added port to allocator
+(basicportallocator.cc:917): Port[9119278:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Gathered candidate: Cand[:3401144682:1:tcp:1518149375:192.168.99.1:8719:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:5:0:0]
+(basicportallocator.cc:945): Port[9119278:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[9119278:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: SetOption(5, 0) failed: 0
+(basicportallocator.cc:1022): Port[9119278:0:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Port completed gathering candidates.
+(basicportallocator.cc:1322): Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]: Allocation Phase=Tcp
+(port.cc:322): Port[9119530::1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Port created with network cost 0
+(webrtcPeer.cc:184): OnIceCandidate 1
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:1987350234 1 udp 1685790463 210.12.14.92 52754 typ srflx raddr 10.155.31.100 rport 52754 generation 0 ufrag ASbe network-id 7",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[9119530:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Added port to allocator
+(basicportallocator.cc:917): Port[9119530:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Gathered candidate: Cand[:755958482:1:tcp:1518083839:169.254.254.138:8720:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:6:0:0]
+(basicportallocator.cc:945): Port[9119530:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[9119530:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: SetOption(5, 0) failed: 0
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:1987350234 1 udp 1685790463 210.12.14.92 52754 typ srflx raddr 10.155.31.100 rport 52754 generation 0 ufrag ASbe network-id 7","id":"video","label":1,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(basicportallocator.cc:1022): Port[9119530:0:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Port completed gathering candidates.
+(webrtcPeer.cc:184): OnIceCandidate 0
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:907546085 1 tcp 1518275327 2001::2841:aa90:473:15e1:2df3:fddd 8717 typ host tcptype passive generation 0 ufrag ASbe network-id 3 network-cost 50",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:907546085 1 tcp 1518275327 2001::2841:aa90:473:15e1:2df3:fddd 8717 typ host tcptype passive generation 0 ufrag ASbe network-id 3 network-cost 50","id":"audio","label":0,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 0
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:2802908053 1 tcp 1518214911 192.168.59.3 8718 typ host tcptype passive generation 0 ufrag ASbe network-id 4",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:2802908053 1 tcp 1518214911 192.168.59.3 8718 typ host tcptype passive generation 0 ufrag ASbe network-id 4","id":"audio","label":0,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 0
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:3401144682 1 tcp 1518149375 192.168.99.1 8719 typ host tcptype passive generation 0 ufrag ASbe network-id 5",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:3401144682 1 tcp 1518149375 192.168.99.1 8719 typ host tcptype passive generation 0 ufrag ASbe network-id 5","id":"audio","label":0,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 0
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:755958482 1 tcp 1518083839 169.254.254.138 8720 typ host tcptype passive generation 0 ufrag ASbe network-id 6",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:755958482 1 tcp 1518083839 169.254.254.138 8720 typ host tcptype passive generation 0 ufrag ASbe network-id 6","id":"audio","label":0,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(basicportallocator.cc:1322): Net[Realtek:10.155.31.100/32:Ethernet:id=7]: Allocation Phase=Tcp
+(port.cc:322): Port[904edd0::1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port created with network cost 0
+(basicportallocator.cc:880): Adding allocated port for 0
+(basicportallocator.cc:899): Port[904edd0:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Added port to allocator
+(basicportallocator.cc:917): Port[904edd0:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Gathered candidate: Cand[:3116332190:1:tcp:1518018303:10.155.31.100:8721:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:7:0:0]
+(basicportallocator.cc:945): Port[904edd0:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[904edd0:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: SetOption(5, 0) failed: 0
+(basicportallocator.cc:1022): Port[904edd0:0:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port completed gathering candidates.
+(basicportallocator.cc:1322): Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]: Allocation Phase=Tcp
+(port.cc:322): Port[910b3c0::1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Port created with network cost 50
+(basicportallocator.cc:880): Adding allocated port for 1
+(basicportallocator.cc:899): Port[910b3c0:1:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Added port to allocator
+(basicportallocator.cc:917): Port[910b3c0:1:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Gathered candidate: Cand[:907546085:1:tcp:1518275327:[2001::2841:aa90:473:15e1:2df3:fddd]:8722:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:3:50:0]
+(basicportallocator.cc:945): Port[910b3c0:1:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[910b3c0:1:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: SetOption(5, 0) failed: 0
+(basicportallocator.cc:1022): Port[910b3c0:1:1:0:local:Net[Teredo:2001::2841:aa90:473:15e1:2df3:fddd/128:Unknown:id=3]]: Port completed gathering candidates.
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]: Allocation Phase=Tcp
+(port.cc:322): Port[910b678::1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Port created with network cost 0
+(basicportallocator.cc:880): Adding allocated port for 1
+(basicportallocator.cc:899): Port[910b678:1:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Added port to allocator
+(basicportallocator.cc:917): Port[910b678:1:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Gathered candidate: Cand[:2802908053:1:tcp:1518214911:192.168.59.3:8723:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:4:0:0]
+(basicportallocator.cc:945): Port[910b678:1:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[910b678:1:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: SetOption(5, 0) failed: 0
+(basicportallocator.cc:1022): Port[910b678:1:1:0:local:Net[VirtualBox:192.168.59.3/32:Ethernet:id=4]]: Port completed gathering candidates.
+(basicportallocator.cc:1322): Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]: Allocation Phase=Tcp
+(port.cc:322): Port[905bdf8::1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Port created with network cost 0
+(basicportallocator.cc:880): Adding allocated port for 1
+(basicportallocator.cc:899): Port[905bdf8:1:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Added port to allocator
+(webrtcPeer.cc:184): OnIceCandidate 0
+(basicportallocator.cc:917): Port[905bdf8:1:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Gathered candidate: Cand[:3401144682:1:tcp:1518149375:192.168.99.1:8724:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:5:0:0]
+(basicportallocator.cc:945): Port[905bdf8:1:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[905bdf8:1:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: SetOption(5, 0) failed: 0
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:3116332190 1 tcp 1518018303 10.155.31.100 8721 typ host tcptype passive generation 0 ufrag ASbe network-id 7",
+   "sdpMLineIndex" : 0,
+   "sdpMid" : "0"
+}
+
+(basicportallocator.cc:1022): Port[905bdf8:1:1:0:local:Net[VirtualBox:192.168.99.1/32:Ethernet:id=5]]: Port completed gathering candidates.
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:3116332190 1 tcp 1518018303 10.155.31.100 8721 typ host tcptype passive generation 0 ufrag ASbe network-id 7","id":"audio","label":0,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 1
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:907546085 1 tcp 1518275327 2001::2841:aa90:473:15e1:2df3:fddd 8722 typ host tcptype passive generation 0 ufrag ASbe network-id 3 network-cost 50",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:907546085 1 tcp 1518275327 2001::2841:aa90:473:15e1:2df3:fddd 8722 typ host tcptype passive generation 0 ufrag ASbe network-id 3 network-cost 50","id":"video","label":1,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 1
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:2802908053 1 tcp 1518214911 192.168.59.3 8723 typ host tcptype passive generation 0 ufrag ASbe network-id 4",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:2802908053 1 tcp 1518214911 192.168.59.3 8723 typ host tcptype passive generation 0 ufrag ASbe network-id 4","id":"video","label":1,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 1
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:3401144682 1 tcp 1518149375 192.168.99.1 8724 typ host tcptype passive generation 0 ufrag ASbe network-id 5",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+(basicportallocator.cc:1322): Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]: Allocation Phase=Tcp
+(port.cc:322): Port[9110a98::1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Port created with network cost 0
+(basicportallocator.cc:880): Adding allocated port for 1
+(basicportallocator.cc:899): Port[9110a98:1:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Added port to allocator
+(basicportallocator.cc:917): Port[9110a98:1:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Gathered candidate: Cand[:755958482:1:tcp:1518083839:169.254.254.138:8725:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:6:0:0]
+(basicportallocator.cc:945): Port[9110a98:1:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[9110a98:1:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: SetOption(5, 0) failed: 0
+(basicportallocator.cc:1022): Port[9110a98:1:1:0:local:Net[VirtualBox:169.254.254.138/32:Ethernet:id=6]]: Port completed gathering candidates.
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:3401144682 1 tcp 1518149375 192.168.99.1 8724 typ host tcptype passive generation 0 ufrag ASbe network-id 5","id":"video","label":1,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(webrtcPeer.cc:184): OnIceCandidate 1
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:755958482 1 tcp 1518083839 169.254.254.138 8725 typ host tcptype passive generation 0 ufrag ASbe network-id 6",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:755958482 1 tcp 1518083839 169.254.254.138 8725 typ host tcptype passive generation 0 ufrag ASbe network-id 6","id":"video","label":1,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
+(basicportallocator.cc:1322): Net[Realtek:10.155.31.100/32:Ethernet:id=7]: Allocation Phase=Tcp
+(port.cc:322): Port[9110d50::1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port created with network cost 0
+(basicportallocator.cc:880): Adding allocated port for 1
+(basicportallocator.cc:899): Port[9110d50:1:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Added port to allocator
+(basicportallocator.cc:917): Port[9110d50:1:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Gathered candidate: Cand[:3116332190:1:tcp:1518018303:10.155.31.100:8726:local::0:ASbe:aUgtofKpnp8QIWu/HiUBLxzH:7:0:0]
+(basicportallocator.cc:945): Port[9110d50:1:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port ready.
+(physicalsocketserver.cc:553): Socket::OPT_DSCP not supported.
+(p2ptransportchannel.cc:777): Port[9110d50:1:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: SetOption(5, 0) failed: 0
+(basicportallocator.cc:1022): Port[9110d50:1:1:0:local:Net[Realtek:10.155.31.100/32:Ethernet:id=7]]: Port completed gathering candidates.
+(webrtcPeer.cc:184): OnIceCandidate 1
+(webrtcPeer.cc:570): SEND_MESSAGE_TO_PEER
+(webrtcPeer.cc:582): SendToPeer 1 : {
+   "candidate" : "candidate:3116332190 1 tcp 1518018303 10.155.31.100 8726 typ host tcptype passive generation 0 ufrag ASbe network-id 7",
+   "sdpMLineIndex" : 1,
+   "sdpMid" : "1"
+}
+
+2019-04-15 16:23:44 WsClient::sendMsg Info {"data":{"candidate":"candidate:3116332190 1 tcp 1518018303 10.155.31.100 8726 typ host tcptype passive generation 0 ufrag ASbe network-id 7","id":"video","label":1,"socketId":"1c55d485-e229-4500-9c24-65b0f199c948"},"eventName":"__ice_candidate"}
